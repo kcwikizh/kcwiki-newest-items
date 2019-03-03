@@ -1,0 +1,38 @@
+{
+  "name": "kcwiki-newest-items",
+  "version": "1.0.0",
+  "description": "kcwiki newest items",
+  "main": "index.js",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "lint": "eslint --ext .js src",
+    "lint:fix": "eslint --fix --ext .js src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcwikizh/kcwiki-newest-items.git"
+  },
+  "author": "lawvs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kcwikizh/kcwiki-newest-items/issues"
+  },
+  "homepage": "https://github.com/kcwikizh/kcwiki-newest-items#readme",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/preset-env": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/register": "^7.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.15.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.16.4"
+  }
+}
