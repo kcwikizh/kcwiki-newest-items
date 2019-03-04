@@ -24,7 +24,7 @@ function Item({ plainlink, remark, contributor, photo, date }) {
           {date && <span className="time">{date}</span>}
         </p>
       )}
-      <p style={photoStyle}>[[File:{photo}|350px]]</p>
+      {photo && <p style={photoStyle}>[[File:{photo}|350px]]</p>}
     </>
   )
 }
