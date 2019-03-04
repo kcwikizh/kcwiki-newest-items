@@ -14,7 +14,7 @@ function Item({ plainlink, remark, contributor, photo, date }) {
   return (
     <>
       <p>
-        {'{{Label|danger|更新}}'}
+        {'{{Label|danger|更新}} '}
         <span className="plainlinks">[[{plainlink}]]</span>
         {remark && <span className="beizhu">&nbsp;{remark}</span>}
       </p>

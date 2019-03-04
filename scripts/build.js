@@ -14,9 +14,9 @@ if (!fs.existsSync('dist')) {
   fs.mkdirSync('dist')
 }
 
-fs.writeFileSync('dist/index.js', appStr)
+fs.writeFileSync('dist/index.html', appStr)
 
 const appStrFormat = beautify(appStr, { indent_size: 2 })
-fs.writeFileSync('dist/index.format.js', appStrFormat)
+fs.writeFileSync('dist/index.formatted.html', appStrFormat)
 
 console.log('Build Success!')

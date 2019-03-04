@@ -68,4 +68,5 @@ NewestItems.propTypes = {
 function App(data) {
   return <NewestItems {...data} />
 }
+
 export default App
