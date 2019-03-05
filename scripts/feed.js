@@ -1,14 +1,39 @@
 // https://github.com/danmactough/node-feedparser
 const fs = require('fs')
+const fetch = require('node-fetch')
 const config = require('./config')
 const { resolvePath, parseFeed } = require('./utils')
 
 const { LOCAL } = process.env
 
+async function queryUserList(url) {
+  const resp = await fetch(url)
+  const json = await resp.json()
+  // https://www.mediawiki.org/wiki/Special:MyLanguage/API:Allusers
+  return json['query']['allusers'].map(({ name }) => name)
+}
+
+function filterAuthor(userList) {
+  const set = new Set(userList)
+  return ({ contributor }) => set.has(contributor)
+}
+
+function filterTitle({ plainlink }) {
+  return config.filterTitle.test(plainlink)
+}
+
 /**
  * @param {import('FeedParser').Item[]} items
  */
-function parseData(items) {
+async function parseData(items) {
+  console.log('Fetching User List')
+  let userList
+  if (LOCAL) {
+    userList = require(resolvePath('build/users.json'))
+  } else {
+    userList = await queryUserList(config.queryUserGroupUrl)
+    fs.writeFileSync('build/users.json', JSON.stringify(userList, undefined, 2))
+  }
   return items
     .map(({ title, description, date, author }) => {
       const regex = /(?<=^<p>‎<span dir="auto"><span class="autocomment">).*?(?=<\/span><\/span><\/p>)/.exec(
@@ -22,6 +47,9 @@ function parseData(items) {
       }
     })
     .filter(({ remark }) => remark && remark.length <= 10)
+    .filter(filterAuthor(userList))
+    .filter(filterTitle)
+    .filter((item, i) => i < config.limit)
 }
 
 async function main() {
@@ -41,7 +69,7 @@ async function main() {
     fs.writeFileSync('build/feed.json', JSON.stringify(items, undefined, 2))
   }
 
-  fs.writeFileSync('build/data.json', JSON.stringify(parseData(items), undefined, 2))
+  fs.writeFileSync('build/data.json', JSON.stringify(await parseData(items), undefined, 2))
   console.log('Feed Success!')
 }
 
