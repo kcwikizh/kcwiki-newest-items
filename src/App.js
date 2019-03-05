@@ -20,15 +20,6 @@ More.propTypes = {
 }
 
 function NewestItems({ items, more }) {
-  if (!items) {
-    return (
-      <>
-        暂无重要更新
-        <More link={more} text={'查看其他更新'} />
-      </>
-    )
-  }
-
   return (
     <div
       style={{
@@ -42,13 +33,21 @@ function NewestItems({ items, more }) {
       <templatestyles src="最新词条/2/styles.css" />
       <div>
         <table width="100%">
-          {items.map((props, index) => (
-            <tr key={index}>
+          {items.length ? (
+            items.map((props, index) => (
+              <tr key={index}>
+                <td className="left" style={{ position: 'relative' }}>
+                  <Item {...props} />
+                </td>
+              </tr>
+            ))
+          ) : (
+            <tr>
               <td className="left" style={{ position: 'relative' }}>
-                <Item {...props} />
+                暂无重要更新
               </td>
             </tr>
-          ))}
+          )}
           <tr id="more-tr">
             <td id="more-td">
               <More link={more} />
