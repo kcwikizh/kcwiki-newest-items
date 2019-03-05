@@ -3,11 +3,29 @@ const fs = require('fs')
 const FeedParser = require('feedparser')
 const fetch = require('node-fetch')
 const config = require('./config')
+const { resolvePath } = require('./utils')
 
+const { LOCAL } = process.env
 const feedparser = new FeedParser()
 
 if (!fs.existsSync('build')) {
   fs.mkdirSync('build')
+}
+
+if (LOCAL) {
+  console.log('Using Local Mode.')
+  if (!fs.existsSync('build/feed.json')) {
+    console.error("ERROR! file 'build/feed.json' not exist")
+    process.exit(1)
+  }
+  const items = require(resolvePath('build/feed.json')).map(({ date, ...rest }) => ({
+    date: new Date(date), // parse date
+    ...rest,
+  }))
+  const dataStr = JSON.stringify(parseData(items), undefined, 2)
+  fs.writeFileSync('build/data.json', dataStr)
+  console.log('Feed Success!')
+  process.exit(0)
 }
 
 console.log(`Fetching ${config.feedLink}`)
@@ -35,7 +53,7 @@ feedparser.on('readable', function() {
 feedparser.on('end', function() {
   const feedStr = JSON.stringify(items, undefined, 2)
   fs.writeFileSync('build/feed.json', feedStr)
-  const dataStr = JSON.stringify(parserData(items), undefined, 2)
+  const dataStr = JSON.stringify(parseData(items), undefined, 2)
   fs.writeFileSync('build/data.json', dataStr)
   console.log('Feed Success!')
 })
@@ -43,7 +61,7 @@ feedparser.on('end', function() {
 /**
  * @param {import('FeedParser').Item[]} items
  */
-function parserData(items) {
+function parseData(items) {
   return items.map(({ title, description, date, author }) => {
     const regex = /(?<=^<p>‎<span dir="auto"><span class="autocomment">).*?(?=<\/span><\/span><\/p>)/.exec(
       description,
