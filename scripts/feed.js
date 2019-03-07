@@ -26,11 +26,12 @@ function filterTitle({ plainlink }) {
  * @param {import('FeedParser').Item[]} items
  */
 async function parseData(items) {
-  console.log('Fetching User List')
   let userList
   if (LOCAL) {
+    console.log('Using Local User List')
     userList = require(resolvePath('build/users.json'))
   } else {
+    console.log('Fetching User List')
     userList = await queryUserList(config.queryUserGroupUrl)
     fs.writeFileSync('build/users.json', JSON.stringify(userList, undefined, 2))
   }
@@ -49,6 +50,7 @@ async function parseData(items) {
     .filter(({ remark }) => remark && remark.length <= 10)
     .filter(filterAuthor(userList))
     .filter(filterTitle)
+    .filter(({ plainlink }, i, arr) => arr.findIndex(item => item.plainlink === plainlink) === i) // filter title repeat
     .filter((item, i) => i < config.limit)
 }
 
