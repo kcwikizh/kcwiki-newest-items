@@ -8,6 +8,7 @@
     "feed": "node scripts/feed.js",
     "feed:local": "cross-env LOCAL=1 node scripts/feed.js",
     "build": "node scripts/build.js",
+    "deploy": "node scripts/deploy.js",
     "lint": "eslint --ext .js .",
     "lint:fix": "eslint --fix --ext .js .",
     "clean": "rm -rf build",
@@ -41,6 +42,7 @@
     "feedparser": "^2.2.9",
     "js-beautify": "^1.9.0",
     "node-fetch": "^2.3.0",
+    "nodemw": "^0.12.2",
     "prettier": "^1.16.4"
   }
 }
