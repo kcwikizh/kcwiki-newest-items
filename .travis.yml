@@ -17,7 +17,9 @@ deploy:
     script: npm run deploy
     on:
       branch: master
-      condition: env(USERNAME) IS present && env(PASSWORD) IS present
+      # https://github.com/travis-ci/travis-conditions/issues/16
+      # condition: $USERNAME IS present && $PASSWORD IS present
+      condition: $USERNAME && $PASSWORD
   - provider: pages
     github_token: $GITHUB_TOKEN
     skip-cleanup: true
@@ -25,4 +27,5 @@ deploy:
     local-dir: build
     on:
       branch: master
-      condition: env(GITHUB_TOKEN) IS present
+      # condition: $GITHUB_TOKEN IS present
+      condition: $GITHUB_TOKEN
