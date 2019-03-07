@@ -1,4 +1,3 @@
-// https://github.com/danmactough/node-feedparser
 const fs = require('fs')
 const fetch = require('node-fetch')
 const config = require('./config')
@@ -50,8 +49,6 @@ async function parseData(items) {
     .filter(({ remark }) => remark && remark.length <= 10)
     .filter(filterAuthor(userList))
     .filter(filterTitle)
-    .filter(({ plainlink }, i, arr) => arr.findIndex(item => item.plainlink === plainlink) === i) // filter title repeat
-    .filter((item, i) => i < config.limit)
 }
 
 async function main() {
@@ -70,8 +67,16 @@ async function main() {
     items = await parseFeed(config.feedLink)
     fs.writeFileSync('build/feed.json', JSON.stringify(items, undefined, 2))
   }
-
-  fs.writeFileSync('build/data.json', JSON.stringify(await parseData(items), undefined, 2))
+  let data = await parseData(items)
+  if (fs.existsSync('build/data.json')) {
+    console.log('Use Previous Data')
+    const previousData = require(resolvePath('build/data.json'))
+    data = data.concat(previousData)
+  }
+  data = data
+    .filter(({ plainlink }, i, arr) => arr.findIndex(item => item.plainlink === plainlink) === i) // filter title repeat
+    .slice(0, config.limit)
+  fs.writeFileSync('build/data.json', JSON.stringify(data, undefined, 2))
   console.log('Feed Success!')
 }
 
