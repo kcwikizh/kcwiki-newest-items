@@ -8,8 +8,8 @@
     "feed": "node scripts/feed.js",
     "feed:local": "cross-env LOCAL=1 node scripts/feed.js",
     "build": "node scripts/build.js",
-    "lint": "eslint --ext .js src",
-    "lint:fix": "eslint --fix --ext .js src",
+    "lint": "eslint --ext .js .",
+    "lint:fix": "eslint --fix --ext .js .",
     "clean": "rm -rf build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
