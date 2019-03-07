@@ -1,0 +1,28 @@
+language: node_js
+node_js:
+  - node
+cache:
+  directories:
+    - node_modules
+install:
+  - npm install
+before_script:
+  - npm run lint
+script:
+  - npm start
+before_deploy:
+  - cp README.md build/
+deploy:
+  - provider: script
+    script: npm run deploy
+    on:
+      branch: master
+      condition: env(USERNAME) IS present && env(PASSWORD) IS present
+  - provider: pages
+    github_token: $GITHUB_TOKEN
+    skip-cleanup: true
+    keep-history: false
+    local-dir: build
+    on:
+      branch: master
+      condition: env(GITHUB_TOKEN) IS present
