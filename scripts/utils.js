@@ -6,6 +6,7 @@ exports.resolvePath = function(dir = '') {
 
 exports.parseFeed = function(url) {
   const fetch = require('node-fetch')
+  // https://github.com/danmactough/node-feedparser
   const FeedParser = require('feedparser')
   const feedparser = new FeedParser()
   return fetch(url)
