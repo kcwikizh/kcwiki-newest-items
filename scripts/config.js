@@ -3,7 +3,7 @@ const protocol = 'https'
 const server = 'zh.kcwiki.org'
 const apiUrl = `${protocol}://${server}/api.php` // mediawiki api page
 // feed
-const feedLink = `${apiUrl}?hidebots=1&urlversion=1&days=15&limit=100&hideminor=1&action=feedrecentchanges&feedformat=atom` // the rss url
+const feedLink = `${apiUrl}?hidebots=1&hideminor=1&action=feedrecentchanges&feedformat=atom` // the rss url
 const augroup = 'kcwikiEditer' // author whitelist group
 const queryUserGroupUrl = `${apiUrl}?action=query&format=json&list=allusers&augroup=${augroup}`
 const limit = 5 // item limit
