@@ -18,7 +18,7 @@ function filterAuthor(userList) {
 }
 
 function filterTitle({ title }) {
-  return config.filterTitle.test(title)
+  return title && config.filterTitle.test(title)
 }
 
 /**
