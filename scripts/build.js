@@ -9,6 +9,12 @@ const { resolvePath } = require('./utils')
 const config = require('./config')
 const App = require(resolvePath('src/index')).default
 const items = require(resolvePath('build/data.json'))
+console.log('============')
+items.forEach(({ title, remark, date, contributor }) => {
+  console.log(title, remark, contributor, date)
+})
+console.log('============')
+
 const data = { items, more: config.moreLink }
 
 const appStr = ReactDOMServer.renderToStaticMarkup(React.createElement(App, data))
