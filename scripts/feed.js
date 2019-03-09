@@ -17,8 +17,8 @@ function filterAuthor(userList) {
   return ({ contributor }) => set.has(contributor)
 }
 
-function filterTitle({ plainlink }) {
-  return config.filterTitle.test(plainlink)
+function filterTitle({ title }) {
+  return config.filterTitle.test(title)
 }
 
 /**
@@ -40,7 +40,7 @@ async function parseData(items) {
         description,
       )
       return {
-        plainlink: title,
+        title,
         remark: regex ? regex[0] : undefined,
         date: date.toLocaleDateString(),
         contributor: author,
@@ -74,7 +74,7 @@ async function main() {
     data = data.concat(previousData)
   }
   data = data
-    .filter(({ plainlink }, i, arr) => arr.findIndex(item => item.plainlink === plainlink) === i) // filter title repeat
+    .filter(({ title }, i, arr) => arr.findIndex(item => item.title === title) === i) // filter title repeat
     .slice(0, config.limit)
   fs.writeFileSync('build/data.json', JSON.stringify(data, undefined, 2))
   console.log('Feed Success!')

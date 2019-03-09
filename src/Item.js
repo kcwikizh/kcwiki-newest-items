@@ -10,12 +10,12 @@ const photoStyle = {
   top: 0,
 }
 
-function Item({ plainlink, remark, contributor, photo, date }) {
+function Item({ title, remark, contributor, photo, date }) {
   return (
     <>
       <p>
         {'{{Label|danger|更新}} '}
-        <span className="plainlinks">[[{plainlink}]]</span>
+        <span className="plainlinks">[[{title}]]</span>
         {remark && <span className="beizhu">&nbsp;{remark}</span>}
       </p>
       {contributor && (
@@ -30,7 +30,7 @@ function Item({ plainlink, remark, contributor, photo, date }) {
 }
 
 Item.propTypes = {
-  plainlink: PropTypes.string.isRequired,
+  title: PropTypes.string.isRequired,
   remark: PropTypes.string,
   contributor: PropTypes.string,
   date: PropTypes.string,
