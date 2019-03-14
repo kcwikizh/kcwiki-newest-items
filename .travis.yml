@@ -19,6 +19,7 @@ before_deploy:
 deploy:
   - provider: script
     script: npm run deploy
+    skip-cleanup: true
     on:
       branch: master
       # https://github.com/travis-ci/travis-conditions/issues/16
