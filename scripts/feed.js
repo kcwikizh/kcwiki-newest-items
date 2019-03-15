@@ -22,6 +22,21 @@ function filterTitle({ title }) {
 }
 
 /**
+ * parse summary from mediawiki rss description
+ * @param {string} description rss description
+ */
+function getSummary(description) {
+  const regex = /(?<=^<p>).*?(?=<\/p>)/.exec(description) // get summary
+  return regex
+    ? regex[0]
+        .replace(/\u200e/g, '') // remove invisible char
+        .replace(/<span class="autocomment">.*?<\/span>/, '') // remove autocomment
+        .replace(/<span .*?>/g, '')
+        .replace(/<\/span>/g, '')
+    : undefined
+}
+
+/**
  * @param {import('FeedParser').Item[]} items
  */
 async function parseData(items) {
@@ -35,18 +50,13 @@ async function parseData(items) {
     fs.writeFileSync('build/users.json', JSON.stringify(userList, undefined, 2))
   }
   return items
-    .map(({ title, description, date, author }) => {
-      const regex = /(?<=^<p>‎<span dir="auto"><span class="autocomment">).*?(?=<\/span><\/span><\/p>)/.exec(
-        description,
-      )
-      return {
-        title,
-        remark: regex ? regex[0] : undefined,
-        date: date.toLocaleDateString(),
-        contributor: author,
-      }
-    })
-    .filter(({ remark }) => remark && remark.length <= 10)
+    .map(({ title, description, date, author }) => ({
+      title,
+      remark: getSummary(description),
+      date: date.toLocaleDateString(),
+      contributor: author,
+    }))
+    .filter(({ remark }) => !!remark && remark.length <= 15)
     .filter(filterAuthor(userList))
     .filter(filterTitle)
 }
