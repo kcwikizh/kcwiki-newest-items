@@ -33,6 +33,8 @@ function getSummary(description) {
         .replace(/<span class="autocomment">.*?<\/span>/, '') // remove autocomment
         .replace(/<span .*?>/g, '')
         .replace(/<\/span>/g, '')
+        .replace(/\/\*.*?\*\//g, '') // remove comment   /* comment */
+        .trim()
     : undefined
 }
 
