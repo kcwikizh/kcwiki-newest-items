@@ -4,7 +4,7 @@ const Bot = require('nodemw')
 const config = require('./config')
 
 const bot = new Bot(config.bot)
-const content = fs.readFileSync('build/index.html', { encoding: 'utf-8' })
+const content = fs.readFileSync('build/index.formatted.html', { encoding: 'utf-8' })
 
 if (!content) {
   console.error("Deploy ERROR! Empty deploy content! Please run 'npm run feed' first. ")
