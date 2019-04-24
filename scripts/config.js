@@ -7,7 +7,7 @@ const feedLink = `${apiUrl}?hidebots=1&hideminor=1&action=feedrecentchanges&feed
 const augroup = 'kcwikiEditer' // author whitelist group
 const queryUserGroupUrl = `${apiUrl}?action=query&format=json&list=allusers&augroup=${augroup}`
 const limit = 5 // item limit
-const filterTitle = /^(?!.*?(File|User|Template|css|MediaWiki|模块)).*$/ // the regex for filter useless update
+const filterTitle = /^(?!.*?(File|User|Template|css|MediaWiki|模块|创建空白页面)).*$/ // the regex for filter useless update
 // build
 const moreLink = `${protocol}://${server}/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9`
 // deploy
