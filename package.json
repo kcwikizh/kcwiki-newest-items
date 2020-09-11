@@ -41,7 +41,7 @@
     "eslint-plugin-react": "^7.12.4",
     "feedparser": "^2.2.9",
     "js-beautify": "^1.9.0",
-    "node-fetch": "^2.3.0",
+    "node-fetch": "^2.6.1",
     "nodemw": "^0.12.2",
     "prettier": "^1.16.4"
   }
