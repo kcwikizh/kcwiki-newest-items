@@ -55,7 +55,11 @@ async function parseData(items) {
     .map(({ title, description, date, author }) => ({
       title,
       remark: getSummary(description),
-      date: date.toLocaleDateString(),
+      date: date.toLocaleString('zh-CN', {
+        year: 'numeric',
+        month: 'numeric',
+        day: 'numeric',
+      }),
       contributor: author,
     }))
     .filter(({ remark }) => !!remark && remark.length <= 15)
