@@ -1,21 +1,21 @@
 const fs = require('fs')
-const fetch = require('node-fetch')
+// const fetch = require('node-fetch')
 const config = require('./config')
 const { resolvePath, parseFeed } = require('./utils')
 
 const { LOCAL } = process.env
 
-async function queryUserList(url) {
-  const resp = await fetch(url)
-  const json = await resp.json()
-  // https://www.mediawiki.org/wiki/Special:MyLanguage/API:Allusers
-  return json['query']['allusers'].map(({ name }) => name)
-}
+// async function queryUserList(url) {
+//   const resp = await fetch(url)
+//   const json = await resp.json()
+//   // https://www.mediawiki.org/wiki/Special:MyLanguage/API:Allusers
+//   return json['query']['allusers'].map(({ name }) => name)
+// }
 
-function filterAuthor(userList) {
-  const set = new Set(userList)
-  return ({ contributor }) => set.has(contributor)
-}
+// function filterAuthor(userList) {
+//   const set = new Set(userList)
+//   return ({ contributor }) => set.has(contributor)
+// }
 
 function filterTitle({ title }) {
   return title && config.filterTitle.test(title)
@@ -42,29 +42,31 @@ function getSummary(description) {
  * @param {import('FeedParser').Item[]} items
  */
 async function parseData(items) {
-  let userList
-  if (LOCAL) {
-    console.log('Using Local User List')
-    userList = require(resolvePath('build/users.json'))
-  } else {
-    console.log('Fetching User List')
-    userList = await queryUserList(config.queryUserGroupUrl)
-    fs.writeFileSync('build/users.json', JSON.stringify(userList, undefined, 2))
-  }
-  return items
-    .map(({ title, description, date, author }) => ({
-      title,
-      remark: getSummary(description),
-      date: date.toLocaleString('zh-CN', {
-        year: 'numeric',
-        month: 'numeric',
-        day: 'numeric',
-      }),
-      contributor: author,
-    }))
-    .filter(({ remark }) => !!remark && remark.length <= 15)
-    .filter(filterAuthor(userList))
-    .filter(filterTitle)
+  // let userList
+  // if (LOCAL) {
+  //   console.log('Using Local User List')
+  //   userList = require(resolvePath('build/users.json'))
+  // } else {
+  //   console.log('Fetching User List')
+  //   userList = await queryUserList(config.queryUserGroupUrl)
+  //   fs.writeFileSync('build/users.json', JSON.stringify(userList, undefined, 2))
+  // }
+  return (
+    items
+      .map(({ title, description, date, author }) => ({
+        title,
+        remark: getSummary(description),
+        date: date.toLocaleString('zh-CN', {
+          year: 'numeric',
+          month: 'numeric',
+          day: 'numeric',
+        }),
+        contributor: author,
+      }))
+      .filter(({ remark }) => !!remark && remark.length <= 15)
+      // .filter(filterAuthor(userList))
+      .filter(filterTitle)
+  )
 }
 
 async function main() {
