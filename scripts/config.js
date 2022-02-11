@@ -1,6 +1,6 @@
 // common
 const protocol = 'https'
-const server = 'zh.kcwiki.org'
+const server = 'zh.kcwiki.cn'
 const apiUrl = `${protocol}://${server}/api.php` // mediawiki api page
 // feed
 const feedLink = `${apiUrl}?hidebots=1&hideminor=1&action=feedrecentchanges&feedformat=atom` // the rss url
