@@ -1,6 +1,6 @@
 # Kcwiki Newest Items
 
-[![Build Status](https://travis-ci.org/kcwikizh/kcwiki-newest-items.svg?branch=master)](https://travis-ci.org/kcwikizh/kcwiki-newest-items)
+[![CI](https://github.com/kcwikizh/kcwiki-newest-items/actions/workflows/nodejs.yml/badge.svg)](https://github.com/kcwikizh/kcwiki-newest-items/actions/workflows/nodejs.yml)
 
 ## Introduction
 
