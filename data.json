@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "title": "北方海域/3-5",
+    "remark": "简洁化+修饰 → 日进水雷魂",
+    "date": "2022/2/17",
+    "contributor": "電改二"
+  },
+  {
+    "title": "南西海域/7-1",
+    "remark": "删除任务介绍",
+    "date": "2022/2/15",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "南西群岛海域/2-5",
+    "remark": "调整格式、排版",
+    "date": "2022/2/5",
+    "contributor": "QTEATE"
+  }
+]
