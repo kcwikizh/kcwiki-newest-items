@@ -1,5 +1,11 @@
 [
   {
+    "title": "2022年冬季活动",
+    "remark": "内容扩充",
+    "date": "2022/2/26",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "山汐丸",
     "remark": "內容擴充 修飾語句",
     "date": "2022/2/25",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/2/25",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "2022年冬季活动",
-    "remark": "添加 + 修正 → 舰船掉落",
-    "date": "2022/2/25",
-    "contributor": "電改二"
   }
 ]
