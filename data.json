@@ -1,5 +1,11 @@
 [
   {
+    "title": "玉波",
+    "remark": "內容擴充",
+    "date": "2022/3/10",
+    "contributor": "燕飲冰"
+  },
+  {
     "title": "2022年冬季活动/E-5",
     "remark": "E5海域攻略更新",
     "date": "2022/3/9",
@@ -20,12 +26,6 @@
   {
     "title": "运输作战相关数值",
     "remark": "网页合并，并设置重定向",
-    "date": "2022/3/8",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "大发",
-    "remark": "新条目 重定向",
     "date": "2022/3/8",
     "contributor": "QTEATE"
   }
