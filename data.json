@@ -1,5 +1,11 @@
 [
   {
+    "title": "开发",
+    "remark": "修正笔误",
+    "date": "2022/3/11",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "玉波",
     "remark": "內容擴充",
     "date": "2022/3/10",
@@ -20,12 +26,6 @@
   {
     "title": "远征列表",
     "remark": "调整格式、排版",
-    "date": "2022/3/8",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "运输作战相关数值",
-    "remark": "网页合并，并设置重定向",
     "date": "2022/3/8",
     "contributor": "QTEATE"
   }
