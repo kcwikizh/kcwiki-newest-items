@@ -1,5 +1,23 @@
 [
   {
+    "title": "2022年冬季活动",
+    "remark": "增加贴条",
+    "date": "2022/3/12",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "练度与选择",
+    "remark": "增加初霜对陆",
+    "date": "2022/3/12",
+    "contributor": "大雕"
+  },
+  {
+    "title": "二号机指南",
+    "remark": "内容更新",
+    "date": "2022/3/12",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "开发",
     "remark": "修正笔误",
     "date": "2022/3/11",
@@ -10,23 +28,5 @@
     "remark": "內容擴充",
     "date": "2022/3/10",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "2022年冬季活动/E-5",
-    "remark": "E5海域攻略更新",
-    "date": "2022/3/9",
-    "contributor": "Teruya"
-  },
-  {
-    "title": "大发动艇收益",
-    "remark": "内容扩充",
-    "date": "2022/3/8",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "远征列表",
-    "remark": "调整格式、排版",
-    "date": "2022/3/8",
-    "contributor": "QTEATE"
   }
 ]
