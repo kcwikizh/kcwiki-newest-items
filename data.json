@@ -1,5 +1,11 @@
 [
   {
+    "title": "练度与选择",
+    "remark": "更新",
+    "date": "2022/4/3",
+    "contributor": "大雕"
+  },
+  {
     "title": "冬月",
     "remark": "修正笔误",
     "date": "2022/4/2",
@@ -22,11 +28,5 @@
     "remark": "更新",
     "date": "2022/3/20",
     "contributor": "大雕"
-  },
-  {
-    "title": "2022年冬季活动/E-5",
-    "remark": "E5更新 3.18",
-    "date": "2022/3/17",
-    "contributor": "Teruya"
   }
 ]
