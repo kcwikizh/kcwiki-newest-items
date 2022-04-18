@@ -1,5 +1,17 @@
 [
   {
+    "title": "舰娘特殊攻击",
+    "remark": "修正笔误",
+    "date": "2022/4/17",
+    "contributor": "Cesium"
+  },
+  {
+    "title": "夜战",
+    "remark": "修正笔误",
+    "date": "2022/4/17",
+    "contributor": "Cesium"
+  },
+  {
     "title": "Ki-102乙改+I号一型乙 诱导弹",
     "remark": "内容扩充 新条目",
     "date": "2022/4/16",
@@ -16,17 +28,5 @@
     "remark": "新条目",
     "date": "2022/4/16",
     "contributor": "妖妖零"
-  },
-  {
-    "title": "长门",
-    "remark": "新增2022年新年限定立绘",
-    "date": "2022/4/16",
-    "contributor": "Kiyohara"
-  },
-  {
-    "title": "北方海域/3-4",
-    "remark": "精鋭「十九駆」、躍り出る！",
-    "date": "2022/4/9",
-    "contributor": "QTEATE"
   }
 ]
