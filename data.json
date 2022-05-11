@@ -1,5 +1,11 @@
 [
   {
+    "title": "SG雷达(后期型)",
+    "remark": "内容扩充",
+    "date": "2022/5/10",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "泛谈舰队collection后期提升",
     "remark": "扩充 → 爆雷/投射机系列",
     "date": "2022/5/9",
@@ -22,11 +28,5 @@
     "remark": "补充一些细节",
     "date": "2022/5/9",
     "contributor": "電改二"
-  },
-  {
-    "title": "伊203",
-    "remark": "补充",
-    "date": "2022/5/9",
-    "contributor": "Asashes"
   }
 ]
