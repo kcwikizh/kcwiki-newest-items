@@ -1,9 +1,15 @@
 [
   {
     "title": "任务/最新任务",
-    "remark": "by11前置2修正待验证",
-    "date": "2022/6/3",
+    "remark": "B180前置其二为B79",
+    "date": "2022/6/4",
     "contributor": "一之濑琴美"
+  },
+  {
+    "title": "攻略:装备养殖优先级指南",
+    "remark": "内容扩充",
+    "date": "2022/6/4",
+    "contributor": "妖妖零"
   },
   {
     "title": "2022年春季活动/E-2",
@@ -22,11 +28,5 @@
     "remark": "难度建议",
     "date": "2022/5/27",
     "contributor": "電改二"
-  },
-  {
-    "title": "2022年春季活动/E-3/带路条件",
-    "remark": "创建空白页面",
-    "date": "2022/5/27",
-    "contributor": "TrickLin"
   }
 ]
