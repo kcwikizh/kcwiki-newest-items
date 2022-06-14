@@ -1,5 +1,11 @@
 [
   {
+    "title": "战斗",
+    "remark": "增加链接",
+    "date": "2022/6/13",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "练度与选择",
     "remark": "修正笔误",
     "date": "2022/6/12",
@@ -22,11 +28,5 @@
     "remark": "将僚舰推荐放进折叠中的列表",
     "date": "2022/6/10",
     "contributor": "近江彼方"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "B180前置其二为B79",
-    "date": "2022/6/4",
-    "contributor": "一之濑琴美"
   }
 ]
