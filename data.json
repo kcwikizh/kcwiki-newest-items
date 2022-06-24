@@ -1,5 +1,17 @@
 [
   {
+    "title": "舰娘特殊攻击",
+    "remark": "补台词",
+    "date": "2022/6/23",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "季节性/2022年梅雨季节",
+    "remark": "内容扩充",
+    "date": "2022/6/23",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "耐久改修",
     "remark": "内容扩充",
     "date": "2022/6/21",
@@ -16,17 +28,5 @@
     "remark": "创建空白页面",
     "date": "2022/6/17",
     "contributor": "TrickLin"
-  },
-  {
-    "title": "2022年春季活动/E-4/带路条件",
-    "remark": "创建空白页面",
-    "date": "2022/6/17",
-    "contributor": "TrickLin"
-  },
-  {
-    "title": "练度与选择",
-    "remark": "内容扩充",
-    "date": "2022/6/15",
-    "contributor": "妖妖零"
   }
 ]
