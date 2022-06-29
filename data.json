@@ -1,5 +1,11 @@
 [
   {
+    "title": "攻略:2022年春季活动攻略",
+    "remark": "修正笔误",
+    "date": "2022/6/28",
+    "contributor": "Mikualpha"
+  },
+  {
     "title": "马里兰",
     "remark": "内容扩充",
     "date": "2022/6/24",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/6/23",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "耐久改修",
-    "remark": "内容扩充",
-    "date": "2022/6/21",
-    "contributor": "秋水残阳"
   }
 ]
