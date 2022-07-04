@@ -1,5 +1,11 @@
 [
   {
+    "title": "早潮",
+    "remark": "内容扩充",
+    "date": "2022/7/3",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "攻略:2022年春季活动攻略/E5",
     "remark": "修正笔误",
     "date": "2022/7/2",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/6/24",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "舰娘特殊攻击",
-    "remark": "补台词",
-    "date": "2022/6/23",
-    "contributor": "QTEATE"
   }
 ]
