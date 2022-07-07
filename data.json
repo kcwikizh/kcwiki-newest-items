@@ -1,5 +1,23 @@
 [
   {
+    "title": "航空战",
+    "remark": "更新对空ci表",
+    "date": "2022/7/6",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "南西海域/7-4",
+    "remark": "修正笔误",
+    "date": "2022/7/6",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "攻略常用资料/基础知识",
+    "remark": "增加“舰船种类”页面链接",
+    "date": "2022/7/6",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "矢矧",
     "remark": "内容扩充",
     "date": "2022/7/4",
@@ -9,24 +27,6 @@
     "title": "早潮",
     "remark": "内容扩充",
     "date": "2022/7/3",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "攻略:2022年春季活动攻略/E5",
-    "remark": "修正笔误",
-    "date": "2022/7/2",
-    "contributor": "Tfylncg"
-  },
-  {
-    "title": "攻略:2022年春季活动攻略",
-    "remark": "修正笔误",
-    "date": "2022/6/28",
-    "contributor": "Mikualpha"
-  },
-  {
-    "title": "马里兰",
-    "remark": "内容扩充",
-    "date": "2022/6/24",
     "contributor": "OwenNiu"
   }
 ]
