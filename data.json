@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务",
+    "remark": "修正笔误",
+    "date": "2022/7/10",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "大和",
     "remark": "内容扩充",
     "date": "2022/7/9",
@@ -20,12 +26,6 @@
   {
     "title": "南西海域/7-4",
     "remark": "修正笔误",
-    "date": "2022/7/6",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "攻略常用资料/基础知识",
-    "remark": "增加“舰船种类”页面链接",
     "date": "2022/7/6",
     "contributor": "QTEATE"
   }
