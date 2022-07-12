@@ -1,5 +1,11 @@
 [
   {
+    "title": "远征列表",
+    "remark": "修正笔误",
+    "date": "2022/7/11",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "任务",
     "remark": "修正笔误",
     "date": "2022/7/10",
@@ -20,12 +26,6 @@
   {
     "title": "航空战",
     "remark": "更新对空ci表",
-    "date": "2022/7/6",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "南西海域/7-4",
-    "remark": "修正笔误",
     "date": "2022/7/6",
     "contributor": "QTEATE"
   }
