@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2022年盛夏季节",
+    "remark": "内容扩充",
+    "date": "2022/7/16",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "远征列表",
     "remark": "修正笔误",
     "date": "2022/7/15",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/7/9",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "航空战",
-    "remark": "更新对空ci表",
-    "date": "2022/7/6",
-    "contributor": "QTEATE"
   }
 ]
