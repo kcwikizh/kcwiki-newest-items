@@ -1,8 +1,20 @@
 [
   {
+    "title": "攻略:装备养殖优先级指南",
+    "remark": "修正笔误",
+    "date": "2022/7/18",
+    "contributor": "妖妖零"
+  },
+  {
+    "title": "战斗详报",
+    "remark": "大和改二更新",
+    "date": "2022/7/18",
+    "contributor": "Akarin"
+  },
+  {
     "title": "远征列表",
     "remark": "修正笔误",
-    "date": "2022/7/17",
+    "date": "2022/7/18",
     "contributor": "QTEATE"
   },
   {
@@ -16,17 +28,5 @@
     "remark": "修正笔误",
     "date": "2022/7/10",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "大和",
-    "remark": "内容扩充",
-    "date": "2022/7/9",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "2022年春季活动/E-4",
-    "remark": "内容扩充",
-    "date": "2022/7/9",
-    "contributor": "OwenNiu"
   }
 ]
