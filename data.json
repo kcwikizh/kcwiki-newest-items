@@ -1,5 +1,11 @@
 [
   {
+    "title": "零式水上侦察机11型乙改(夜侦)",
+    "remark": "获取方式",
+    "date": "2022/7/21",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "攻略:装备养殖优先级指南",
     "remark": "修正笔误",
     "date": "2022/7/18",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/7/16",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "任务",
-    "remark": "修正笔误",
-    "date": "2022/7/10",
-    "contributor": "QTEATE"
   }
 ]
