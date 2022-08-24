@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务",
+    "remark": "内容扩充",
+    "date": "2022/8/23",
+    "contributor": "JT"
+  },
+  {
     "title": "舰娘喂运",
     "remark": "修正笔误",
     "date": "2022/8/15",
@@ -22,11 +28,5 @@
     "remark": "更新截止早潮",
     "date": "2022/8/7",
     "contributor": "大雕"
-  },
-  {
-    "title": "对马",
-    "remark": "内容扩充",
-    "date": "2022/8/7",
-    "contributor": "Krayton sendai"
   }
 ]
