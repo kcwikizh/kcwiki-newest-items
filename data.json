@@ -1,5 +1,11 @@
 [
   {
+    "title": "新型航空兵装资材",
+    "remark": "增加入手方式",
+    "date": "2022/9/2",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "2022年夏季活动/E-2",
     "remark": "内容扩充",
     "date": "2022/8/28",
@@ -21,12 +27,6 @@
     "title": "远征列表",
     "remark": "修正笔误",
     "date": "2022/8/15",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "明石的改修工厂",
-    "remark": "素材不能上星",
-    "date": "2022/8/12",
     "contributor": "QTEATE"
   }
 ]
