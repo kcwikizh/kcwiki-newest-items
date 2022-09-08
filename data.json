@@ -1,8 +1,14 @@
 [
   {
+    "title": "攻略:2022年夏季活动攻略/E2",
+    "remark": "机动部队攻略参考",
+    "date": "2022/9/7",
+    "contributor": "Ooyole"
+  },
+  {
     "title": "2022年夏季活动/E-3",
     "remark": "内容扩充",
-    "date": "2022/9/6",
+    "date": "2022/9/7",
     "contributor": "OwenNiu"
   },
   {
@@ -22,11 +28,5 @@
     "remark": "增加入手方式",
     "date": "2022/9/2",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "任务",
-    "remark": "内容扩充",
-    "date": "2022/8/23",
-    "contributor": "JT"
   }
 ]
