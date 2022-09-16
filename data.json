@@ -1,5 +1,17 @@
 [
   {
+    "title": "2022年夏季活动/E-4",
+    "remark": "E",
+    "date": "2022/9/15",
+    "contributor": "Teruya"
+  },
+  {
+    "title": "战舰未完栖姬",
+    "remark": "内容扩充",
+    "date": "2022/9/15",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "攻略:2022年夏季活动攻略/E3",
     "remark": "内容扩充：第一血条框架",
     "date": "2022/9/14",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/9/14",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "F4U-4",
-    "remark": "修正笔误",
-    "date": "2022/9/10",
-    "contributor": "潜水舰168"
-  },
-  {
-    "title": "熟练甲板要员+航空整备员",
-    "remark": "装备性能",
-    "date": "2022/9/10",
-    "contributor": "潜水舰168"
   }
 ]
