@@ -1,5 +1,11 @@
 [
   {
+    "title": "西方海域/4-3",
+    "remark": "修正笔误",
+    "date": "2022/9/20",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "神风",
     "remark": "内容扩充",
     "date": "2022/9/18",
@@ -22,11 +28,5 @@
     "remark": "内容扩充:P2解谜框架",
     "date": "2022/9/17",
     "contributor": "Ooyole"
-  },
-  {
-    "title": "亲潮",
-    "remark": "内容扩充",
-    "date": "2022/9/16",
-    "contributor": "Krayton sendai"
   }
 ]
