@@ -1,5 +1,11 @@
 [
   {
+    "title": "舰娘特殊攻击",
+    "remark": "基础倍率和T不利倍率变化",
+    "date": "2022/9/21",
+    "contributor": "潜水舰168"
+  },
+  {
     "title": "谢菲尔德",
     "remark": "漏了一句",
     "date": "2022/9/20",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2022/9/20",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "神风",
-    "remark": "内容扩充",
-    "date": "2022/9/18",
-    "contributor": "Krayton sendai"
   }
 ]
