@@ -1,5 +1,17 @@
 [
   {
+    "title": "二号机指南",
+    "remark": "add满潮",
+    "date": "2022/9/25",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "珀斯",
+    "remark": "内容扩充",
+    "date": "2022/9/25",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "Mosquito TR Mk.33",
     "remark": "装备性能修改",
     "date": "2022/9/24",
@@ -16,17 +28,5 @@
     "remark": "漏了一句",
     "date": "2022/9/20",
     "contributor": "Licht"
-  },
-  {
-    "title": "2022年夏季活动/E-3",
-    "remark": "内容扩充",
-    "date": "2022/9/20",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "2022年夏季活动/E-2",
-    "remark": "内容扩充",
-    "date": "2022/9/20",
-    "contributor": "Krayton sendai"
   }
 ]
