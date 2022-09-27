@@ -1,5 +1,11 @@
 [
   {
+    "title": "改修优先级",
+    "remark": "修正笔误",
+    "date": "2022/9/26",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "二号机指南",
     "remark": "add满潮",
     "date": "2022/9/25",
@@ -22,11 +28,5 @@
     "remark": "基础倍率和T不利倍率变化",
     "date": "2022/9/21",
     "contributor": "潜水舰168"
-  },
-  {
-    "title": "谢菲尔德",
-    "remark": "漏了一句",
-    "date": "2022/9/20",
-    "contributor": "Licht"
   }
 ]
