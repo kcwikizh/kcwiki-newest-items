@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务",
+    "remark": "修正笔误",
+    "date": "2022/10/6",
+    "contributor": "QTEATE"
+  },
+  {
+    "title": "2022年夏季活动/E-4",
+    "remark": "内容扩充：解谜",
+    "date": "2022/10/5",
+    "contributor": "Ooyole"
+  },
+  {
     "title": "改修优先级",
     "remark": "修正笔误",
     "date": "2022/9/26",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/9/25",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "Mosquito TR Mk.33",
-    "remark": "装备性能修改",
-    "date": "2022/9/24",
-    "contributor": "潜水舰168"
-  },
-  {
-    "title": "舰娘特殊攻击",
-    "remark": "基础倍率和T不利倍率变化",
-    "date": "2022/9/21",
-    "contributor": "潜水舰168"
   }
 ]
