@@ -1,5 +1,11 @@
 [
   {
+    "title": "早波",
+    "remark": "添加巫喙鲈号的wiki链接",
+    "date": "2022/10/7",
+    "contributor": "YHI Zuikaku"
+  },
+  {
     "title": "任务",
     "remark": "修正笔误",
     "date": "2022/10/6",
@@ -22,11 +28,5 @@
     "remark": "add满潮",
     "date": "2022/9/25",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "珀斯",
-    "remark": "内容扩充",
-    "date": "2022/9/25",
-    "contributor": "Krayton sendai"
   }
 ]
