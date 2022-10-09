@@ -1,5 +1,17 @@
 [
   {
+    "title": "马萨诸塞",
+    "remark": "修饰语句",
+    "date": "2022/10/9",
+    "contributor": "OwenNiu"
+  },
+  {
+    "title": "舰娘特殊攻击",
+    "remark": "内容扩充",
+    "date": "2022/10/8",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "早波",
     "remark": "添加巫喙鲈号的wiki链接",
     "date": "2022/10/7",
@@ -16,17 +28,5 @@
     "remark": "内容扩充：解谜",
     "date": "2022/10/5",
     "contributor": "Ooyole"
-  },
-  {
-    "title": "改修优先级",
-    "remark": "修正笔误",
-    "date": "2022/9/26",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "二号机指南",
-    "remark": "add满潮",
-    "date": "2022/9/25",
-    "contributor": "QTEATE"
   }
 ]
