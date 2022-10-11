@@ -1,5 +1,23 @@
 [
   {
+    "title": "2022年夏季活动",
+    "remark": "内容扩充",
+    "date": "2022/10/10",
+    "contributor": "OwenNiu"
+  },
+  {
+    "title": "村雨",
+    "remark": "村雨改二装备3 新条目",
+    "date": "2022/10/10",
+    "contributor": "Shuaiyang"
+  },
+  {
+    "title": "卷波",
+    "remark": "修饰语句",
+    "date": "2022/10/10",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "马萨诸塞",
     "remark": "修饰语句",
     "date": "2022/10/9",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/10/8",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "早波",
-    "remark": "添加巫喙鲈号的wiki链接",
-    "date": "2022/10/7",
-    "contributor": "YHI Zuikaku"
-  },
-  {
-    "title": "任务",
-    "remark": "修正笔误",
-    "date": "2022/10/6",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "2022年夏季活动/E-4",
-    "remark": "内容扩充：解谜",
-    "date": "2022/10/5",
-    "contributor": "Ooyole"
   }
 ]
