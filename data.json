@@ -1,5 +1,17 @@
 [
   {
+    "title": "季节性",
+    "remark": "内容扩充",
+    "date": "2022/10/18",
+    "contributor": "Asashes"
+  },
+  {
+    "title": "季节性/2022年万圣节",
+    "remark": "内容扩充",
+    "date": "2022/10/18",
+    "contributor": "Asashes"
+  },
+  {
     "title": "航空战",
     "remark": "修正笔误",
     "date": "2022/10/17",
@@ -14,18 +26,6 @@
   {
     "title": "游戏更新/2022年10月14日",
     "remark": "修正笔误",
-    "date": "2022/10/16",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "山汐丸",
-    "remark": "内容扩充",
-    "date": "2022/10/16",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "最上",
-    "remark": "内容扩充",
     "date": "2022/10/16",
     "contributor": "Krayton sendai"
   }
