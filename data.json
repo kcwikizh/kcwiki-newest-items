@@ -1,5 +1,23 @@
 [
   {
+    "title": "任务",
+    "remark": "修复动态年常任务表bug",
+    "date": "2022/11/1",
+    "contributor": "Mihane"
+  },
+  {
+    "title": "特大发动艇+III号战车(北非样式)",
+    "remark": "重定向",
+    "date": "2022/11/1",
+    "contributor": "Asashes"
+  },
+  {
+    "title": "三式弹改二",
+    "remark": "内容扩充",
+    "date": "2022/11/1",
+    "contributor": "Asashes"
+  },
+  {
     "title": "远征列表",
     "remark": "增加早潮改、早潮改二",
     "date": "2022/10/28",
@@ -10,23 +28,5 @@
     "remark": "7-4数据",
     "date": "2022/10/27",
     "contributor": "近江彼方"
-  },
-  {
-    "title": "手机注册与进阶使用教程",
-    "remark": "修复2.9链接",
-    "date": "2022/10/25",
-    "contributor": "QTEATE"
-  },
-  {
-    "title": "季节性",
-    "remark": "内容扩充",
-    "date": "2022/10/18",
-    "contributor": "Asashes"
-  },
-  {
-    "title": "季节性/2022年万圣节",
-    "remark": "内容扩充",
-    "date": "2022/10/18",
-    "contributor": "Asashes"
   }
 ]
