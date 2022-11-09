@@ -1,5 +1,11 @@
 [
   {
+    "title": "TV动画第二期-《总有一天，在那片海》",
+    "remark": "历史原型",
+    "date": "2022/11/8",
+    "contributor": "H喵"
+  },
+  {
     "title": "漫画和轻小说索引",
     "remark": "维护清理",
     "date": "2022/11/6",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/11/1",
     "contributor": "Asashes"
-  },
-  {
-    "title": "远征列表",
-    "remark": "增加早潮改、早潮改二",
-    "date": "2022/10/28",
-    "contributor": "近江彼方"
   }
 ]
