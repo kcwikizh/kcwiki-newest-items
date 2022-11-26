@@ -1,5 +1,11 @@
 [
   {
+    "title": "大鲸",
+    "remark": "修正笔误",
+    "date": "2022/11/25",
+    "contributor": "银河星海"
+  },
+  {
     "title": "资源",
     "remark": "根据2期海图改动",
     "date": "2022/11/16",
@@ -21,12 +27,6 @@
     "title": "火奴鲁鲁",
     "remark": "内容扩充",
     "date": "2022/11/12",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "山汐丸",
-    "remark": "内容扩充",
-    "date": "2022/11/10",
     "contributor": "Krayton sendai"
   }
 ]
