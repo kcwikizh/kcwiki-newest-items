@@ -1,5 +1,11 @@
 [
   {
+    "title": "火奴鲁鲁",
+    "remark": "内容扩充",
+    "date": "2022/11/27",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "大鲸",
     "remark": "修正笔误",
     "date": "2022/11/25",
@@ -21,12 +27,6 @@
     "title": "季节性/2022年秋刀鱼祭典",
     "remark": "内容扩充",
     "date": "2022/11/15",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "火奴鲁鲁",
-    "remark": "内容扩充",
-    "date": "2022/11/12",
     "contributor": "Krayton sendai"
   }
 ]
