@@ -1,5 +1,11 @@
 [
   {
+    "title": "凤翔",
+    "remark": "语音",
+    "date": "2022/12/8",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "战果和排名奖励",
     "remark": "更新10月战果",
     "date": "2022/12/1",
@@ -22,11 +28,5 @@
     "remark": "根据2期海图改动",
     "date": "2022/11/16",
     "contributor": "近江彼方"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "修正笔误",
-    "date": "2022/11/16",
-    "contributor": "之之流光"
   }
 ]
