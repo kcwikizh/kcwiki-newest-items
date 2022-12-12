@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2022年圣诞节",
+    "remark": "翻译",
+    "date": "2022/12/12",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "不知火",
     "remark": "添加细节",
     "date": "2022/12/9",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2022/11/27",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "大鲸",
-    "remark": "修正笔误",
-    "date": "2022/11/25",
-    "contributor": "银河星海"
   }
 ]
