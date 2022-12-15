@@ -1,8 +1,14 @@
 [
   {
+    "title": "球磨",
+    "remark": "内容扩充",
+    "date": "2022/12/14",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "季节性/2022年圣诞节",
-    "remark": "翻译",
-    "date": "2022/12/12",
+    "remark": "内容扩充",
+    "date": "2022/12/14",
     "contributor": "OwenNiu"
   },
   {
@@ -22,11 +28,5 @@
     "remark": "更新10月战果",
     "date": "2022/12/1",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "火奴鲁鲁",
-    "remark": "内容扩充",
-    "date": "2022/11/27",
-    "contributor": "Krayton sendai"
   }
 ]
