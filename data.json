@@ -1,5 +1,17 @@
 [
   {
+    "title": "初霜",
+    "remark": "增加内容",
+    "date": "2023/1/9",
+    "contributor": "楚鶴"
+  },
+  {
+    "title": "响",
+    "remark": "内容扩充 增加或调整参考来源",
+    "date": "2023/1/9",
+    "contributor": "楚鶴"
+  },
+  {
     "title": "季节性/2022年圣诞节",
     "remark": "立绘补充",
     "date": "2022/12/22",
@@ -16,17 +28,5 @@
     "remark": "立绘补充",
     "date": "2022/12/22",
     "contributor": "Asashes"
-  },
-  {
-    "title": "球磨",
-    "remark": "内容扩充",
-    "date": "2022/12/14",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "不知火",
-    "remark": "添加细节",
-    "date": "2022/12/9",
-    "contributor": "CC962"
   }
 ]
