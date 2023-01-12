@@ -1,5 +1,11 @@
 [
   {
+    "title": "试制甲板用弹射器",
+    "remark": "内容扩充",
+    "date": "2023/1/11",
+    "contributor": "Victorique"
+  },
+  {
     "title": "GFCS Mk.37",
     "remark": "内容扩充",
     "date": "2023/1/10",
@@ -22,11 +28,5 @@
     "remark": "增加或调整内部链接",
     "date": "2023/1/10",
     "contributor": "Victorique"
-  },
-  {
-    "title": "初霜",
-    "remark": "增加内容",
-    "date": "2023/1/9",
-    "contributor": "楚鶴"
   }
 ]
