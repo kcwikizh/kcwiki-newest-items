@@ -1,5 +1,23 @@
 [
   {
+    "title": "风云",
+    "remark": "立绘",
+    "date": "2023/1/12",
+    "contributor": "Asashes"
+  },
+  {
+    "title": "秋云",
+    "remark": "立绘",
+    "date": "2023/1/12",
+    "contributor": "Asashes"
+  },
+  {
+    "title": "洋上补给",
+    "remark": "内容扩充",
+    "date": "2023/1/12",
+    "contributor": "Victorique"
+  },
+  {
     "title": "试制甲板用弹射器",
     "remark": "内容扩充",
     "date": "2023/1/11",
@@ -8,24 +26,6 @@
   {
     "title": "GFCS Mk.37",
     "remark": "内容扩充",
-    "date": "2023/1/10",
-    "contributor": "Victorique"
-  },
-  {
-    "title": "Swordfish Mk.III改(水上机型)",
-    "remark": "内容扩充",
-    "date": "2023/1/10",
-    "contributor": "Victorique"
-  },
-  {
-    "title": "12.7cm连装炮B型改四(战时改修)+高射装置",
-    "remark": "内容扩充 增加或调整内部链接",
-    "date": "2023/1/10",
-    "contributor": "Victorique"
-  },
-  {
-    "title": "12.7cm连装炮A型改三(战时改修)+高射装置",
-    "remark": "增加或调整内部链接",
     "date": "2023/1/10",
     "contributor": "Victorique"
   }
