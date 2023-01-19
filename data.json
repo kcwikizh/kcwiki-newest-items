@@ -1,8 +1,14 @@
 [
   {
+    "title": "攻略:任务配装",
+    "remark": "添加限时任务群结束时间",
+    "date": "2023/1/19",
+    "contributor": "Momobd"
+  },
+  {
     "title": "南西海域/7-4",
-    "remark": "beta",
-    "date": "2023/1/17",
+    "remark": "推荐配置简介",
+    "date": "2023/1/18",
     "contributor": "電改二"
   },
   {
@@ -21,12 +27,6 @@
     "title": "衣笠",
     "remark": "立绘",
     "date": "2023/1/14",
-    "contributor": "Asashes"
-  },
-  {
-    "title": "风云",
-    "remark": "立绘",
-    "date": "2023/1/12",
     "contributor": "Asashes"
   }
 ]
