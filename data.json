@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2023/1/20",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "南西海域/7-4",
     "remark": "Beta 2.3",
     "date": "2023/1/19",
@@ -19,12 +25,6 @@
   },
   {
     "title": "川内",
-    "remark": "立绘",
-    "date": "2023/1/14",
-    "contributor": "Asashes"
-  },
-  {
-    "title": "衣笠",
     "remark": "立绘",
     "date": "2023/1/14",
     "contributor": "Asashes"
