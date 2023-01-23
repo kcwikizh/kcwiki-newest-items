@@ -1,5 +1,23 @@
 [
   {
+    "title": "浦波",
+    "remark": "立绘补充",
+    "date": "2023/1/22",
+    "contributor": "Asashes"
+  },
+  {
+    "title": "凤翔",
+    "remark": "立绘补充",
+    "date": "2023/1/22",
+    "contributor": "Asashes"
+  },
+  {
+    "title": "季节性/2023年节分季节",
+    "remark": "内容扩充",
+    "date": "2023/1/22",
+    "contributor": "Asashes"
+  },
+  {
     "title": "南西海域/7-5",
     "remark": "搬运完毕",
     "date": "2023/1/21",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/1/20",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "南西海域/7-4",
-    "remark": "Beta 2.3",
-    "date": "2023/1/19",
-    "contributor": "電改二"
-  },
-  {
-    "title": "攻略:任务配装",
-    "remark": "添加限时任务群结束时间",
-    "date": "2023/1/19",
-    "contributor": "Momobd"
-  },
-  {
-    "title": "比睿",
-    "remark": "立绘",
-    "date": "2023/1/14",
-    "contributor": "Asashes"
   }
 ]
