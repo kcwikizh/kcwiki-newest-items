@@ -1,5 +1,11 @@
 [
   {
+    "title": "特殊攻击系统",
+    "remark": "修改内容、重新排版",
+    "date": "2023/2/2",
+    "contributor": "IndigoEyes"
+  },
+  {
     "title": "一式战 隼II型改(20战队)",
     "remark": "获取途径",
     "date": "2023/2/1",
@@ -22,11 +28,5 @@
     "remark": "7-5带路",
     "date": "2023/1/27",
     "contributor": "Callofblood"
-  },
-  {
-    "title": "浦波",
-    "remark": "立绘补充",
-    "date": "2023/1/22",
-    "contributor": "Asashes"
   }
 ]
