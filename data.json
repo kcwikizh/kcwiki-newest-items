@@ -1,5 +1,23 @@
 [
   {
+    "title": "金刚",
+    "remark": "内容扩充",
+    "date": "2023/2/3",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "秋月",
+    "remark": "内容扩充",
+    "date": "2023/2/3",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "航速",
+    "remark": "更新凤翔 低速E组",
+    "date": "2023/2/3",
+    "contributor": "大雕"
+  },
+  {
     "title": "特殊攻击系统",
     "remark": "修改内容、重新排版",
     "date": "2023/2/2",
@@ -10,23 +28,5 @@
     "remark": "获取途径",
     "date": "2023/2/1",
     "contributor": "電改二"
-  },
-  {
-    "title": "季节性/2023年节分季节",
-    "remark": "内容扩充",
-    "date": "2023/1/31",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "新型航空兵装资材",
-    "remark": "补充最上改二/日向改二消耗数",
-    "date": "2023/1/29",
-    "contributor": "Nebulas"
-  },
-  {
-    "title": "南西海域/7-5/带路条件",
-    "remark": "7-5带路",
-    "date": "2023/1/27",
-    "contributor": "Callofblood"
   }
 ]
