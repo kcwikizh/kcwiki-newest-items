@@ -1,5 +1,23 @@
 [
   {
+    "title": "爱宕",
+    "remark": "内容扩充",
+    "date": "2023/2/4",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "Do 17 Z-2",
+    "remark": "修正笔误",
+    "date": "2023/2/4",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "二式大艇",
+    "remark": "内容扩充",
+    "date": "2023/2/4",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "金刚",
     "remark": "内容扩充",
     "date": "2023/2/3",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/2/3",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "航速",
-    "remark": "更新凤翔 低速E组",
-    "date": "2023/2/3",
-    "contributor": "大雕"
-  },
-  {
-    "title": "特殊攻击系统",
-    "remark": "修改内容、重新排版",
-    "date": "2023/2/2",
-    "contributor": "IndigoEyes"
-  },
-  {
-    "title": "一式战 隼II型改(20战队)",
-    "remark": "获取途径",
-    "date": "2023/2/1",
-    "contributor": "電改二"
   }
 ]
