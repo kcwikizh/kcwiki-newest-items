@@ -1,5 +1,11 @@
 [
   {
+    "title": "榛名",
+    "remark": "内容扩充",
+    "date": "2023/2/10",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "Spitfire Mk.V",
     "remark": "内容扩充",
     "date": "2023/2/9",
@@ -21,12 +27,6 @@
     "title": "SM.79",
     "remark": "修正笔误",
     "date": "2023/2/9",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "B-25",
-    "remark": "内容扩充",
-    "date": "2023/2/8",
     "contributor": "凉风吹雪"
   }
 ]
