@@ -1,5 +1,11 @@
 [
   {
+    "title": "舰船种类",
+    "remark": "修正笔误",
+    "date": "2023/2/12",
+    "contributor": "Voroshilov"
+  },
+  {
     "title": "榛名",
     "remark": "内容扩充",
     "date": "2023/2/10",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2023/2/9",
     "contributor": "大雕"
-  },
-  {
-    "title": "SM.79",
-    "remark": "修正笔误",
-    "date": "2023/2/9",
-    "contributor": "凉风吹雪"
   }
 ]
