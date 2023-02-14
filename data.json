@@ -1,5 +1,17 @@
 [
   {
+    "title": "AU-1",
+    "remark": "内容扩充",
+    "date": "2023/2/13",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "一式战 隼II型",
+    "remark": "内容扩充",
+    "date": "2023/2/13",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "舰船种类",
     "remark": "修正笔误",
     "date": "2023/2/12",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/2/9",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "Spitfire Mk.IX(熟练)",
-    "remark": "内容扩充",
-    "date": "2023/2/9",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "远征列表",
-    "remark": "修正笔误",
-    "date": "2023/2/9",
-    "contributor": "大雕"
   }
 ]
