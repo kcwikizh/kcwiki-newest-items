@@ -1,5 +1,11 @@
 [
   {
+    "title": "游戏更新/2023年2月14日",
+    "remark": "创建页面，内容为“待更新”",
+    "date": "2023/2/14",
+    "contributor": "IndigoEyes"
+  },
+  {
     "title": "AU-1",
     "remark": "内容扩充",
     "date": "2023/2/13",
@@ -21,12 +27,6 @@
     "title": "榛名",
     "remark": "内容扩充",
     "date": "2023/2/10",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "Spitfire Mk.V",
-    "remark": "内容扩充",
-    "date": "2023/2/9",
     "contributor": "凉风吹雪"
   }
 ]
