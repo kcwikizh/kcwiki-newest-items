@@ -1,5 +1,17 @@
 [
   {
+    "title": "建造",
+    "remark": "重写",
+    "date": "2023/3/7",
+    "contributor": "IndigoEyes"
+  },
+  {
+    "title": "2023年早春活动/E-3",
+    "remark": "内容扩充",
+    "date": "2023/3/7",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "南西海域/7-1",
     "remark": "Beta 1.0",
     "date": "2023/3/7",
@@ -16,17 +28,5 @@
     "remark": "试制 夜间瑞云(攻击装备)",
     "date": "2023/3/6",
     "contributor": "電改二"
-  },
-  {
-    "title": "新型航空兵装资材",
-    "remark": "试制 夜间瑞云(攻击装备)",
-    "date": "2023/3/6",
-    "contributor": "電改二"
-  },
-  {
-    "title": "基地航空队",
-    "remark": "维护清理",
-    "date": "2023/3/6",
-    "contributor": "IndigoEyes"
   }
 ]
