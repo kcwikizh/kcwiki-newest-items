@@ -1,32 +1,32 @@
 [
   {
-    "title": "舰娘图鉴",
-    "remark": "内容扩充",
-    "date": "2023/3/8",
-    "contributor": "Victorique"
+    "title": "季节性/2023年女儿节",
+    "remark": "创建空白页面",
+    "date": "2023/3/9",
+    "contributor": "TrickLin"
   },
   {
-    "title": "南西海域/7-1",
-    "remark": "Q&amp;A",
-    "date": "2023/3/8",
-    "contributor": "電改二"
-  },
-  {
-    "title": "塞缪尔·B·罗伯茨",
-    "remark": "台词翻译",
-    "date": "2023/3/8",
+    "title": "能代",
+    "remark": "增加语音",
+    "date": "2023/3/9",
     "contributor": "Nebulas"
   },
   {
-    "title": "海伍德·L·爱德华兹",
-    "remark": "内容扩充",
-    "date": "2023/3/8",
-    "contributor": "凉风吹雪"
+    "title": "村雨",
+    "remark": "语音修正",
+    "date": "2023/3/9",
+    "contributor": "Nebulas"
   },
   {
-    "title": "2023年早春活动/E-3",
-    "remark": "解密更新",
-    "date": "2023/3/8",
-    "contributor": "QTEATE"
+    "title": "季节性/2019年女儿节",
+    "remark": "移除非季节性语音内容。",
+    "date": "2023/3/9",
+    "contributor": "Nebulas"
+  },
+  {
+    "title": "陆奥",
+    "remark": "修正语音内容",
+    "date": "2023/3/9",
+    "contributor": "Nebulas"
   }
 ]
