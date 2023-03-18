@@ -1,5 +1,23 @@
 [
   {
+    "title": "2023年早春活动/E-1",
+    "remark": "内容扩充",
+    "date": "2023/3/17",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "舰娘特殊攻击",
+    "remark": "内容扩充 调整格式、排版",
+    "date": "2023/3/17",
+    "contributor": "IndigoEyes"
+  },
+  {
+    "title": "2023年早春活动/E-3",
+    "remark": "P3削甲",
+    "date": "2023/3/17",
+    "contributor": "IndigoEyes"
+  },
+  {
     "title": "2023年早春活动/E-2",
     "remark": "削甲更新",
     "date": "2023/3/16",
@@ -10,23 +28,5 @@
     "remark": "补充资料",
     "date": "2023/3/14",
     "contributor": "Nebulas"
-  },
-  {
-    "title": "2023年早春活动/E-3",
-    "remark": "内容扩充",
-    "date": "2023/3/13",
-    "contributor": "Miaosa"
-  },
-  {
-    "title": "改造",
-    "remark": "内容扩充",
-    "date": "2023/3/11",
-    "contributor": "ChesterCharles"
-  },
-  {
-    "title": "季节性/2023年女儿节",
-    "remark": "创建空白页面",
-    "date": "2023/3/9",
-    "contributor": "TrickLin"
   }
 ]
