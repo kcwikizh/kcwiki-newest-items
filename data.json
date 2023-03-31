@@ -1,5 +1,11 @@
 [
   {
+    "title": "迅鲸",
+    "remark": "修改了使用旗舰",
+    "date": "2023/3/30",
+    "contributor": "Wei"
+  },
+  {
     "title": "季节性/2023年白色情人节",
     "remark": "情人节语音翻译，部分更新",
     "date": "2023/3/29",
@@ -19,12 +25,6 @@
   },
   {
     "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2023/3/28",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "2023年早春活动/E-4",
     "remark": "内容扩充",
     "date": "2023/3/28",
     "contributor": "Krayton sendai"
