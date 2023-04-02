@@ -1,5 +1,11 @@
 [
   {
+    "title": "2023年早春活动",
+    "remark": "内容扩充",
+    "date": "2023/4/1",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "迅鲸",
     "remark": "修改了使用旗舰",
     "date": "2023/3/30",
@@ -22,11 +28,5 @@
     "remark": "插图",
     "date": "2023/3/29",
     "contributor": "QTEATE"
-  },
-  {
-    "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2023/3/28",
-    "contributor": "Krayton sendai"
   }
 ]
