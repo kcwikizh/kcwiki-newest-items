@@ -1,5 +1,11 @@
 [
   {
+    "title": "2023年早春活动/E-4",
+    "remark": "内容扩充",
+    "date": "2023/4/7",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "友军舰队",
     "remark": "内容扩充",
     "date": "2023/4/3",
@@ -22,11 +28,5 @@
     "remark": "修改了使用旗舰",
     "date": "2023/3/30",
     "contributor": "Wei"
-  },
-  {
-    "title": "季节性/2023年白色情人节",
-    "remark": "情人节语音翻译，部分更新",
-    "date": "2023/3/29",
-    "contributor": "Teruya"
   }
 ]
