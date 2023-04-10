@@ -1,5 +1,17 @@
 [
   {
+    "title": "改修优先级",
+    "remark": "修正笔误",
+    "date": "2023/4/9",
+    "contributor": "IndigoEyes"
+  },
+  {
+    "title": "2023年早春活动/E-6",
+    "remark": "E6攻略情报部分更新",
+    "date": "2023/4/9",
+    "contributor": "Teruya"
+  },
+  {
     "title": "2023年早春活动/E-4",
     "remark": "内容扩充",
     "date": "2023/4/7",
@@ -16,17 +28,5 @@
     "remark": "内容扩充 修正笔误",
     "date": "2023/4/3",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "2023年早春活动",
-    "remark": "内容扩充",
-    "date": "2023/4/1",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "迅鲸",
-    "remark": "修改了使用旗舰",
-    "date": "2023/3/30",
-    "contributor": "Wei"
   }
 ]
