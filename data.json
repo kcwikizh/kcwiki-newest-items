@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2023年白色情人节",
+    "remark": "内容扩充",
+    "date": "2023/4/16",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "改修优先级",
     "remark": "修正笔误",
     "date": "2023/4/9",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/4/3",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "初月",
-    "remark": "内容扩充 修正笔误",
-    "date": "2023/4/3",
-    "contributor": "凉风吹雪"
   }
 ]
