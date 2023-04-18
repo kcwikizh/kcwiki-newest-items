@@ -1,5 +1,17 @@
 [
   {
+    "title": "亚特兰大",
+    "remark": "修正笔误",
+    "date": "2023/4/17",
+    "contributor": "Wsd2B"
+  },
+  {
+    "title": "季节性/2023年初春季节",
+    "remark": "内容扩充",
+    "date": "2023/4/17",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "季节性/2023年白色情人节",
     "remark": "内容扩充",
     "date": "2023/4/16",
@@ -16,17 +28,5 @@
     "remark": "E6攻略情报部分更新",
     "date": "2023/4/9",
     "contributor": "Teruya"
-  },
-  {
-    "title": "2023年早春活动/E-4",
-    "remark": "内容扩充",
-    "date": "2023/4/7",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "友军舰队",
-    "remark": "内容扩充",
-    "date": "2023/4/3",
-    "contributor": "OwenNiu"
   }
 ]
