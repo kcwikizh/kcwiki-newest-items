@@ -1,5 +1,17 @@
 [
   {
+    "title": "季节性/2023年十周年纪念",
+    "remark": "内容扩充",
+    "date": "2023/4/28",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "任务",
+    "remark": "修正笔误",
+    "date": "2023/4/28",
+    "contributor": "AChant"
+  },
+  {
     "title": "2023年早春活动/E-6",
     "remark": "E6攻略情报部分更新",
     "date": "2023/4/21",
@@ -16,17 +28,5 @@
     "remark": "补充",
     "date": "2023/4/20",
     "contributor": "Asashes"
-  },
-  {
-    "title": "南方海域/5-5",
-    "remark": "修正笔误",
-    "date": "2023/4/20",
-    "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "季节性/2023年白色情人节",
-    "remark": "内容扩充",
-    "date": "2023/4/20",
-    "contributor": "Krayton sendai"
   }
 ]
