@@ -1,5 +1,11 @@
 [
   {
+    "title": "发烟装置(烟幕)",
+    "remark": "内容扩充",
+    "date": "2023/4/30",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2023/4/29",
@@ -22,11 +28,5 @@
     "remark": "E6攻略情报部分更新",
     "date": "2023/4/21",
     "contributor": "Teruya"
-  },
-  {
-    "title": "马里兰",
-    "remark": "在e6p4捞到 故更新",
-    "date": "2023/4/20",
-    "contributor": "Wei"
   }
 ]
