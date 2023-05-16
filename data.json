@@ -1,5 +1,11 @@
 [
   {
+    "title": "震电改",
+    "remark": "内容扩充",
+    "date": "2023/5/15",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "季节性/2023年十周年纪念",
     "remark": "修正笔误",
     "date": "2023/5/11",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/5/7",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "深雪",
-    "remark": "补充深雪改二立绘",
-    "date": "2023/5/5",
-    "contributor": "Tocqueville"
   }
 ]
