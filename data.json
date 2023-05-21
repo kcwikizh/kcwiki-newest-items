@@ -1,5 +1,11 @@
 [
   {
+    "title": "北方海域/3-5",
+    "remark": "删除了重复的方案",
+    "date": "2023/5/20",
+    "contributor": "Ddxglin"
+  },
+  {
     "title": "Re.2001 OR改",
     "remark": "内容扩充",
     "date": "2023/5/18",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2023/5/11",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "橘花改",
-    "remark": "内容扩充",
-    "date": "2023/5/10",
-    "contributor": "凉风吹雪"
   }
 ]
