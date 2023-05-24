@@ -1,5 +1,11 @@
 [
   {
+    "title": "35.6cm连装炮改三(炫光迷彩规格)",
+    "remark": "修正笔误",
+    "date": "2023/5/23",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "北方海域/3-5",
     "remark": "删除了重复的方案",
     "date": "2023/5/20",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/5/15",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "季节性/2023年十周年纪念",
-    "remark": "修正笔误",
-    "date": "2023/5/11",
-    "contributor": "Krayton sendai"
   }
 ]
