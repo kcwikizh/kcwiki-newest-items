@@ -1,5 +1,11 @@
 [
   {
+    "title": "夕张",
+    "remark": "增加夕张掉落点",
+    "date": "2023/5/28",
+    "contributor": "涩图细胞"
+  },
+  {
     "title": "初月",
     "remark": "调整格式、排版",
     "date": "2023/5/26",
@@ -21,12 +27,6 @@
     "title": "Re.2001 OR改",
     "remark": "内容扩充",
     "date": "2023/5/18",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "烈风 一一型",
-    "remark": "修正笔误",
-    "date": "2023/5/16",
     "contributor": "凉风吹雪"
   }
 ]
