@@ -1,5 +1,11 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2023/5/30",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "夕张",
     "remark": "增加夕张掉落点",
     "date": "2023/5/28",
@@ -22,11 +28,5 @@
     "remark": "删除了重复的方案",
     "date": "2023/5/20",
     "contributor": "Ddxglin"
-  },
-  {
-    "title": "Re.2001 OR改",
-    "remark": "内容扩充",
-    "date": "2023/5/18",
-    "contributor": "凉风吹雪"
   }
 ]
