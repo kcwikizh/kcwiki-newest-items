@@ -1,5 +1,11 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2023/7/23",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "南西海域/7-3",
     "remark": "掉落",
     "date": "2023/7/18",
@@ -21,12 +27,6 @@
     "title": "基地航空队",
     "remark": "Catalina救助",
     "date": "2023/7/4",
-    "contributor": "IndigoEyes"
-  },
-  {
-    "title": "《舰Colle》大事记",
-    "remark": "以“{{施工中}}”替换内容",
-    "date": "2023/7/2",
     "contributor": "IndigoEyes"
   }
 ]
