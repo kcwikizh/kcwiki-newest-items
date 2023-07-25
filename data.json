@@ -1,5 +1,17 @@
 [
   {
+    "title": "资源获取",
+    "remark": "以“{{施工中}}”替换内容",
+    "date": "2023/7/24",
+    "contributor": "IndigoEyes"
+  },
+  {
+    "title": "南方海域/5-4",
+    "remark": "季常任务更新",
+    "date": "2023/7/24",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2023/7/23",
@@ -16,17 +28,5 @@
     "remark": "清空页面",
     "date": "2023/7/9",
     "contributor": "Saber707"
-  },
-  {
-    "title": "天津风",
-    "remark": "内容扩充",
-    "date": "2023/7/8",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "基地航空队",
-    "remark": "Catalina救助",
-    "date": "2023/7/4",
-    "contributor": "IndigoEyes"
   }
 ]
