@@ -1,5 +1,11 @@
 [
   {
+    "title": "UGUME",
+    "remark": "内容扩充",
+    "date": "2023/7/25",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "资源获取",
     "remark": "以“{{施工中}}”替换内容",
     "date": "2023/7/24",
@@ -22,11 +28,5 @@
     "remark": "掉落",
     "date": "2023/7/18",
     "contributor": "PeterWong"
-  },
-  {
-    "title": "新型航空器设计图",
-    "remark": "清空页面",
-    "date": "2023/7/9",
-    "contributor": "Saber707"
   }
 ]
