@@ -1,5 +1,17 @@
 [
   {
+    "title": "2023年夏季活动/E-3",
+    "remark": "内容扩充",
+    "date": "2023/8/15",
+    "contributor": "OwenNiu"
+  },
+  {
+    "title": "2023年夏季活动",
+    "remark": "倍卡更新时间",
+    "date": "2023/8/15",
+    "contributor": "QTEATE"
+  },
+  {
     "title": "2023年夏季活动/E-1",
     "remark": "内容扩充",
     "date": "2023/8/13",
@@ -16,17 +28,5 @@
     "remark": "掉落",
     "date": "2023/7/27",
     "contributor": "PeterWong"
-  },
-  {
-    "title": "UGUME",
-    "remark": "内容扩充",
-    "date": "2023/7/25",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "资源获取",
-    "remark": "以“{{施工中}}”替换内容",
-    "date": "2023/7/24",
-    "contributor": "IndigoEyes"
   }
 ]
