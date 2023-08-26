@@ -1,5 +1,11 @@
 [
   {
+    "title": "有明",
+    "remark": "內容擴充",
+    "date": "2023/8/25",
+    "contributor": "燕飲冰"
+  },
+  {
     "title": "攻略:2023年夏季活动攻略/E2",
     "remark": "E2P1 乙作战解密 内容扩充",
     "date": "2023/8/21",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/8/15",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "2023年夏季活动",
-    "remark": "倍卡更新时间",
-    "date": "2023/8/15",
-    "contributor": "QTEATE"
   }
 ]
