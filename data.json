@@ -1,5 +1,11 @@
 [
   {
+    "title": "五岛冲海底姬",
+    "remark": "内容扩充",
+    "date": "2023/9/15",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "阻塞气球",
     "remark": "可裝備艦種",
     "date": "2023/9/10",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/9/7",
     "contributor": "Mikualpha"
-  },
-  {
-    "title": "特大发动艇+三号战车J型",
-    "remark": "内容扩充",
-    "date": "2023/9/1",
-    "contributor": "凉风吹雪"
   }
 ]
