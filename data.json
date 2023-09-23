@@ -1,5 +1,17 @@
 [
   {
+    "title": "夜战",
+    "remark": "修正笔误",
+    "date": "2023/9/22",
+    "contributor": "大雕"
+  },
+  {
+    "title": "新型兵装资材",
+    "remark": "用途",
+    "date": "2023/9/22",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "2023年夏季活动奖励简析与难度建议",
     "remark": "修正笔误",
     "date": "2023/9/20",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/9/17",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "2023年夏季活动/E-6",
-    "remark": "内容扩充",
-    "date": "2023/9/17",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "航空战",
-    "remark": "陆航触接补充",
-    "date": "2023/9/17",
-    "contributor": "大雕"
   }
 ]
