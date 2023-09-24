@@ -1,5 +1,11 @@
 [
   {
+    "title": "舰娘特殊攻击",
+    "remark": "内容扩充",
+    "date": "2023/9/23",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "夜战",
     "remark": "修正笔误",
     "date": "2023/9/22",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/9/19",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "罗德尼",
-    "remark": "内容扩充",
-    "date": "2023/9/17",
-    "contributor": "Krayton sendai"
   }
 ]
