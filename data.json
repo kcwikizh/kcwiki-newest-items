@@ -1,5 +1,11 @@
 [
   {
+    "title": "2023年夏季活动/E-7",
+    "remark": "修正笔误",
+    "date": "2023/9/25",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2023/9/24",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2023/9/22",
     "contributor": "大雕"
-  },
-  {
-    "title": "新型兵装资材",
-    "remark": "用途",
-    "date": "2023/9/22",
-    "contributor": "PeterWong"
   }
 ]
