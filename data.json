@@ -1,5 +1,11 @@
 [
   {
+    "title": "天津风",
+    "remark": "修饰语句",
+    "date": "2023/9/28",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "2023年夏季活动/E-7",
     "remark": "修正笔误",
     "date": "2023/9/25",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/9/23",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "夜战",
-    "remark": "修正笔误",
-    "date": "2023/9/22",
-    "contributor": "大雕"
   }
 ]
