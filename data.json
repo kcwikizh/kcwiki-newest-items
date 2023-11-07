@@ -1,5 +1,11 @@
 [
   {
+    "title": "深海栖舰列表",
+    "remark": "内容扩充 修正笔误",
+    "date": "2023/11/6",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
     "title": "季节性/2023年秋刀鱼祭典",
     "remark": "内容扩充",
     "date": "2023/11/3",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2023/10/9",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "橘花改",
-    "remark": "修正笔误",
-    "date": "2023/10/8",
-    "contributor": "凉风吹雪"
   }
 ]
