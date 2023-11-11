@@ -1,5 +1,11 @@
 [
   {
+    "title": "经验值和头衔",
+    "remark": "调整格式、",
+    "date": "2023/11/10",
+    "contributor": "景明1102"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "修正笔误",
     "date": "2023/11/9",
@@ -21,12 +27,6 @@
     "title": "清霜",
     "remark": "内容扩充",
     "date": "2023/10/11",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2023/10/9",
     "contributor": "Krayton sendai"
   }
 ]
