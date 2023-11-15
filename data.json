@@ -1,5 +1,11 @@
 [
   {
+    "title": "罗德尼",
+    "remark": "內容擴充",
+    "date": "2023/11/15",
+    "contributor": "燕飲冰"
+  },
+  {
     "title": "经验值和头衔",
     "remark": "调整格式、",
     "date": "2023/11/10",
@@ -22,11 +28,5 @@
     "remark": "修饰语句 修正笔误",
     "date": "2023/11/3",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "清霜",
-    "remark": "内容扩充",
-    "date": "2023/10/11",
-    "contributor": "Krayton sendai"
   }
 ]
