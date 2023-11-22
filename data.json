@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务",
+    "remark": "條件修正",
+    "date": "2023/11/21",
+    "contributor": "Siw1998"
+  },
+  {
+    "title": "后期型舰首鱼雷(6门)",
+    "remark": "更新获取途径",
+    "date": "2023/11/21",
+    "contributor": "无时辩解"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "内容扩充 修正笔误",
     "date": "2023/11/19",
@@ -16,17 +28,5 @@
     "remark": "调整格式、",
     "date": "2023/11/10",
     "contributor": "景明1102"
-  },
-  {
-    "title": "季节性/2023年秋刀鱼祭典",
-    "remark": "内容扩充",
-    "date": "2023/11/3",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "修饰语句 修正笔误",
-    "date": "2023/11/3",
-    "contributor": "OwenNiu"
   }
 ]
