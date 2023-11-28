@@ -1,5 +1,23 @@
 [
   {
+    "title": "阻塞气球",
+    "remark": "翻譯",
+    "date": "2023/11/27",
+    "contributor": "PeterWong"
+  },
+  {
+    "title": "任务/最新任务",
+    "remark": "任务时限",
+    "date": "2023/11/27",
+    "contributor": "PeterWong"
+  },
+  {
+    "title": "南西海域/7-3",
+    "remark": "掉落",
+    "date": "2023/11/27",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "修正笔误 内容扩充",
     "date": "2023/11/23",
@@ -10,23 +28,5 @@
     "remark": "條件修正",
     "date": "2023/11/21",
     "contributor": "Siw1998"
-  },
-  {
-    "title": "后期型舰首鱼雷(6门)",
-    "remark": "更新获取途径",
-    "date": "2023/11/21",
-    "contributor": "无时辩解"
-  },
-  {
-    "title": "罗德尼",
-    "remark": "修饰语句",
-    "date": "2023/11/15",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "经验值和头衔",
-    "remark": "调整格式、",
-    "date": "2023/11/10",
-    "contributor": "景明1102"
   }
 ]
