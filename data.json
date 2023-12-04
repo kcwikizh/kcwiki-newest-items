@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2023年圣诞节",
+    "remark": "立绘",
+    "date": "2023/12/3",
+    "contributor": "Asashes"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "内容扩充",
     "date": "2023/11/30",
@@ -22,11 +28,5 @@
     "remark": "掉落",
     "date": "2023/11/27",
     "contributor": "PeterWong"
-  },
-  {
-    "title": "任务",
-    "remark": "條件修正",
-    "date": "2023/11/21",
-    "contributor": "Siw1998"
   }
 ]
