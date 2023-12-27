@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "備註",
+    "date": "2023/12/26",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "新条目 内容扩充",
     "date": "2023/12/25",
@@ -19,12 +25,6 @@
   },
   {
     "title": "兰利",
-    "remark": "内容扩充",
-    "date": "2023/12/23",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "第二十二号海防舰",
     "remark": "内容扩充",
     "date": "2023/12/23",
     "contributor": "Krayton sendai"
