@@ -1,5 +1,23 @@
 [
   {
+    "title": "季节性/2023年圣诞节",
+    "remark": "修正笔误",
+    "date": "2023/12/30",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "季节性/2023年年末大扫除",
+    "remark": "内容扩充",
+    "date": "2023/12/30",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "Z1",
+    "remark": "修正笔误",
+    "date": "2023/12/30",
+    "contributor": "Branpurn"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "翻譯",
     "date": "2023/12/29",
@@ -10,23 +28,5 @@
     "remark": "新条目 内容扩充",
     "date": "2023/12/25",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "中部海域/6-5",
-    "remark": "新增一种打法。",
-    "date": "2023/12/23",
-    "contributor": "Ben Shang"
-  },
-  {
-    "title": "鲑鱼",
-    "remark": "内容扩充",
-    "date": "2023/12/23",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "兰利",
-    "remark": "内容扩充",
-    "date": "2023/12/23",
-    "contributor": "Krayton sendai"
   }
 ]
