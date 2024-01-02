@@ -1,5 +1,17 @@
 [
   {
+    "title": "攻略:任务配装",
+    "remark": "修正笔误",
+    "date": "2024/1/1",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
+    "title": "任务/最新任务",
+    "remark": "备注+翻譯",
+    "date": "2024/1/1",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "季节性/2023年圣诞节",
     "remark": "修正笔误",
     "date": "2023/12/30",
@@ -16,17 +28,5 @@
     "remark": "修正笔误",
     "date": "2023/12/30",
     "contributor": "Branpurn"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "翻譯",
-    "date": "2023/12/29",
-    "contributor": "PeterWong"
-  },
-  {
-    "title": "深海栖舰列表",
-    "remark": "新条目 内容扩充",
-    "date": "2023/12/25",
-    "contributor": "Oda-shitsukiri"
   }
 ]
