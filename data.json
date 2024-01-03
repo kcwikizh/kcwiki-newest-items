@@ -1,5 +1,23 @@
 [
   {
+    "title": "潮",
+    "remark": "内容扩充 增加或调整内部链接",
+    "date": "2024/1/2",
+    "contributor": "Kuchinashi"
+  },
+  {
+    "title": "深海栖舰列表",
+    "remark": "添加遗漏的欧洲姬",
+    "date": "2024/1/2",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
+    "title": "季节性/2024年新年季节",
+    "remark": "内容扩充",
+    "date": "2024/1/2",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "攻略:任务配装",
     "remark": "修正笔误",
     "date": "2024/1/1",
@@ -10,23 +28,5 @@
     "remark": "备注+翻譯",
     "date": "2024/1/1",
     "contributor": "PeterWong"
-  },
-  {
-    "title": "季节性/2023年圣诞节",
-    "remark": "修正笔误",
-    "date": "2023/12/30",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "季节性/2023年年末大扫除",
-    "remark": "内容扩充",
-    "date": "2023/12/30",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "Z1",
-    "remark": "修正笔误",
-    "date": "2023/12/30",
-    "contributor": "Branpurn"
   }
 ]
