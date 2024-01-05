@@ -1,5 +1,11 @@
 [
   {
+    "title": "深海栖舰",
+    "remark": "修正笔误",
+    "date": "2024/1/4",
+    "contributor": "Branpurn"
+  },
+  {
     "title": "潮",
     "remark": "内容扩充 增加或调整内部链接",
     "date": "2024/1/2",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2024/1/1",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "备注+翻譯",
-    "date": "2024/1/1",
-    "contributor": "PeterWong"
   }
 ]
