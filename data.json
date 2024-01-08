@@ -1,5 +1,11 @@
 [
   {
+    "title": "南方海域/5-5",
+    "remark": "修正笔误",
+    "date": "2024/1/7",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "修正笔误",
     "date": "2024/1/6",
@@ -22,11 +28,5 @@
     "remark": "内容扩充 增加或调整内部链接",
     "date": "2024/1/2",
     "contributor": "Kuchinashi"
-  },
-  {
-    "title": "深海栖舰列表",
-    "remark": "添加遗漏的欧洲姬",
-    "date": "2024/1/2",
-    "contributor": "Oda-shitsukiri"
   }
 ]
