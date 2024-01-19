@@ -1,5 +1,11 @@
 [
   {
+    "title": "零式舰战64型(熟练爆战)",
+    "remark": "内容扩充",
+    "date": "2024/1/18",
+    "contributor": "FUKUYAMA"
+  },
+  {
     "title": "南方海域/5-5",
     "remark": "修正笔误",
     "date": "2024/1/7",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2024/1/4",
     "contributor": "Branpurn"
-  },
-  {
-    "title": "潮",
-    "remark": "内容扩充 增加或调整内部链接",
-    "date": "2024/1/2",
-    "contributor": "Kuchinashi"
   }
 ]
