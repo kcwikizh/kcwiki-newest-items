@@ -1,5 +1,11 @@
 [
   {
+    "title": "装备考察",
+    "remark": "增加强風改二",
+    "date": "2024/1/21",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
     "title": "零式舰战64型(熟练爆战)",
     "remark": "内容扩充",
     "date": "2024/1/18",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/1/6",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "深海栖舰",
-    "remark": "修正笔误",
-    "date": "2024/1/4",
-    "contributor": "Branpurn"
   }
 ]
