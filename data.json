@@ -1,5 +1,17 @@
 [
   {
+    "title": "三隈",
+    "remark": "獲取途徑",
+    "date": "2024/1/27",
+    "contributor": "PeterWong"
+  },
+  {
+    "title": "西方海域/4-4",
+    "remark": "掉落",
+    "date": "2024/1/27",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "瑞鹤",
     "remark": "立绘",
     "date": "2024/1/22",
@@ -15,18 +27,6 @@
     "title": "装备考察",
     "remark": "增加强風改二",
     "date": "2024/1/21",
-    "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "零式舰战64型(熟练爆战)",
-    "remark": "内容扩充",
-    "date": "2024/1/18",
-    "contributor": "FUKUYAMA"
-  },
-  {
-    "title": "南方海域/5-5",
-    "remark": "修正笔误",
-    "date": "2024/1/7",
     "contributor": "Oda-shitsukiri"
   }
 ]
