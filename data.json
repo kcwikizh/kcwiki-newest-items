@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2024/1/29",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "三隈",
     "remark": "獲取途徑",
     "date": "2024/1/27",
@@ -22,11 +28,5 @@
     "remark": "立绘",
     "date": "2024/1/22",
     "contributor": "Asashes"
-  },
-  {
-    "title": "装备考察",
-    "remark": "增加强風改二",
-    "date": "2024/1/21",
-    "contributor": "Oda-shitsukiri"
   }
 ]
