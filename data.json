@@ -1,5 +1,11 @@
 [
   {
+    "title": "银河(熟练)",
+    "remark": "内容扩充",
+    "date": "2024/1/31",
+    "contributor": "FUKUYAMA"
+  },
+  {
     "title": "第二十二号海防舰",
     "remark": "内容扩充",
     "date": "2024/1/30",
@@ -20,12 +26,6 @@
   {
     "title": "清霜",
     "remark": "修正笔误 增加或调整内部链接",
-    "date": "2024/1/30",
-    "contributor": "Kuchinashi"
-  },
-  {
-    "title": "潮",
-    "remark": "修正笔误",
     "date": "2024/1/30",
     "contributor": "Kuchinashi"
   }
