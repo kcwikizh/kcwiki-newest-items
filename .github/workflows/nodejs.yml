@@ -20,6 +20,9 @@ jobs:
     runs-on: ${{ matrix.os }}
 
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
       - name: Checkout gh-pages as cache
         uses: actions/checkout@v4
         with:
