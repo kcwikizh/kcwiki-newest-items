@@ -1,5 +1,17 @@
 [
   {
+    "title": "C.卡佩里尼",
+    "remark": "修正筆誤",
+    "date": "2024/2/5",
+    "contributor": "燕飲冰"
+  },
+  {
+    "title": "南西海域/7-4",
+    "remark": "掉落",
+    "date": "2024/2/5",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "季节性/2024年节分季节",
     "remark": "内容扩充",
     "date": "2024/2/4",
@@ -16,17 +28,5 @@
     "remark": "修飾語句",
     "date": "2024/2/3",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "季节性/2023年节分季节",
-    "remark": "修飾語句",
-    "date": "2024/2/3",
-    "contributor": "燕飲冰"
-  },
-  {
-    "title": "三隈",
-    "remark": "内容扩充",
-    "date": "2024/2/2",
-    "contributor": "Asashes"
   }
 ]
