@@ -1,5 +1,11 @@
 [
   {
+    "title": "银河(熟练)",
+    "remark": "内容扩充",
+    "date": "2024/2/11",
+    "contributor": "Asashes"
+  },
+  {
     "title": "C.卡佩里尼",
     "remark": "修飾語句",
     "date": "2024/2/9",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/2/4",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "备注",
-    "date": "2024/2/3",
-    "contributor": "PeterWong"
   }
 ]
