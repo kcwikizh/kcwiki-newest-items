@@ -1,5 +1,11 @@
 [
   {
+    "title": "水无月",
+    "remark": "修正笔误",
+    "date": "2024/2/17",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "内容扩充",
     "date": "2024/2/15",
@@ -22,11 +28,5 @@
     "remark": "修飾語句",
     "date": "2024/2/9",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "南方海域/5-3",
-    "remark": "修正错误配置",
-    "date": "2024/2/6",
-    "contributor": "翻翻翻翻翻车鱼"
   }
 ]
