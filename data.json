@@ -1,5 +1,11 @@
 [
   {
+    "title": "攻略:任务配装",
+    "remark": "修正笔误",
+    "date": "2024/2/19",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
     "title": "水无月",
     "remark": "修正笔误",
     "date": "2024/2/17",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/2/11",
     "contributor": "Asashes"
-  },
-  {
-    "title": "C.卡佩里尼",
-    "remark": "修飾語句",
-    "date": "2024/2/9",
-    "contributor": "燕飲冰"
   }
 ]
