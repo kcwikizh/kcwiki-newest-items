@@ -1,5 +1,23 @@
 [
   {
+    "title": "南西海域/7-4",
+    "remark": "掉落",
+    "date": "2024/2/27",
+    "contributor": "PeterWong"
+  },
+  {
+    "title": "任务",
+    "remark": "内容扩充",
+    "date": "2024/2/26",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
+    "title": "季节性/2024年情人节",
+    "remark": "内容扩充",
+    "date": "2024/2/26",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "攻略:任务配装",
     "remark": "修正笔误",
     "date": "2024/2/24",
@@ -10,23 +28,5 @@
     "remark": "修正笔误",
     "date": "2024/2/17",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "内容扩充",
-    "date": "2024/2/15",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "南西海域/7-4",
-    "remark": "掉落",
-    "date": "2024/2/14",
-    "contributor": "PeterWong"
-  },
-  {
-    "title": "银河(熟练)",
-    "remark": "内容扩充",
-    "date": "2024/2/11",
-    "contributor": "Asashes"
   }
 ]
