@@ -1,5 +1,11 @@
 [
   {
+    "title": "特四式内火艇改",
+    "remark": "内容扩充",
+    "date": "2024/3/1",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "南西海域/7-4",
     "remark": "掉落",
     "date": "2024/2/27",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2024/2/24",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "水无月",
-    "remark": "修正笔误",
-    "date": "2024/2/17",
-    "contributor": "Krayton sendai"
   }
 ]
