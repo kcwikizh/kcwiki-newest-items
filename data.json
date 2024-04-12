@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2024/4/11",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "消歧义",
     "date": "2024/4/9",
@@ -22,11 +28,5 @@
     "remark": "內容擴充",
     "date": "2024/4/3",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "游戏制作人员索引",
-    "remark": "重复",
-    "date": "2024/4/3",
-    "contributor": "Shuaiyang"
   }
 ]
