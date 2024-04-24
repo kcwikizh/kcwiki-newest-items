@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "修正笔误",
+    "date": "2024/4/24",
+    "contributor": "Branpurn"
+  },
+  {
     "title": "Sea Otter",
     "remark": "内容扩充",
     "date": "2024/4/22",
@@ -19,12 +25,6 @@
   },
   {
     "title": "Loire 130M",
-    "remark": "内容扩充",
-    "date": "2024/4/22",
-    "contributor": "丘丘"
-  },
-  {
-    "title": "F4U-2 Night Corsair",
     "remark": "内容扩充",
     "date": "2024/4/22",
     "contributor": "丘丘"
