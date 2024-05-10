@@ -1,5 +1,11 @@
 [
   {
+    "title": "大鲸",
+    "remark": "内容扩充",
+    "date": "2024/5/9",
+    "contributor": "丘丘"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "修正笔误",
     "date": "2024/5/2",
@@ -19,12 +25,6 @@
   },
   {
     "title": "SO3C 海鸥(Seamew)改",
-    "remark": "内容扩充",
-    "date": "2024/4/27",
-    "contributor": "丘丘"
-  },
-  {
-    "title": "SOC Seagull",
     "remark": "内容扩充",
     "date": "2024/4/27",
     "contributor": "丘丘"
