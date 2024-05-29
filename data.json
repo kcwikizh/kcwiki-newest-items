@@ -1,5 +1,23 @@
 [
   {
+    "title": "南西海域/7-4",
+    "remark": "掉落",
+    "date": "2024/5/28",
+    "contributor": "PeterWong"
+  },
+  {
+    "title": "春日丸",
+    "remark": "掉落",
+    "date": "2024/5/28",
+    "contributor": "PeterWong"
+  },
+  {
+    "title": "瑞鹤",
+    "remark": "入手方式-掉落",
+    "date": "2024/5/28",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "Fw190 D-9",
     "remark": "修正笔误",
     "date": "2024/5/25",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/5/25",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "前置",
-    "date": "2024/5/20",
-    "contributor": "PeterWong"
-  },
-  {
-    "title": "攻略:任务配装",
-    "remark": "修正笔误",
-    "date": "2024/5/20",
-    "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "水雷战队 熟练见张员",
-    "remark": "内容扩充",
-    "date": "2024/5/15",
-    "contributor": "丘丘"
   }
 ]
