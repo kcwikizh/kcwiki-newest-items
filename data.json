@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "修正笔误",
+    "date": "2024/6/2",
+    "contributor": "Lex251"
+  },
+  {
     "title": "35.6cm连装炮改四",
     "remark": "内容扩充",
     "date": "2024/6/1",
@@ -19,12 +25,6 @@
   },
   {
     "title": "SB2C-5",
-    "remark": "内容扩充",
-    "date": "2024/6/1",
-    "contributor": "丘丘"
-  },
-  {
-    "title": "SB2C-3",
     "remark": "内容扩充",
     "date": "2024/6/1",
     "contributor": "丘丘"
