@@ -12,7 +12,7 @@ const filterTitle = /^(?!.*?(File|User|Template|css|MediaWiki|模块|创建空�
 const moreLink = `${protocol}://${server}/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9`
 // deploy
 const deployTitle = `Template:最新词条/2` // title of the page to edit
-const summary = 'KcWiki Robot: Update' // edit summary when deploy
+const summary = 'Update from https://github.com/kcwikizh/kcwiki-newest-items/' // edit summary when deploy
 
 module.exports = {
   moreLink,
