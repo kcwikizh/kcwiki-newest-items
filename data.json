@@ -1,5 +1,17 @@
 [
   {
+    "title": "攻略:任务配装",
+    "remark": "修正笔误",
+    "date": "2024/6/29",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "10cm连装高角炮改+高射装置改",
+    "remark": "内容扩充",
+    "date": "2024/6/29",
+    "contributor": "苏联娘"
+  },
+  {
     "title": "舰队通信天线",
     "remark": "内容扩充",
     "date": "2024/6/28",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/6/28",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "南太平洋空母栖姬",
-    "remark": "修饰语句",
-    "date": "2024/6/11",
-    "contributor": "Miaosa"
-  },
-  {
-    "title": "拆包BGM列表",
-    "remark": "修正筆誤",
-    "date": "2024/6/6",
-    "contributor": "KJaio"
   }
 ]
