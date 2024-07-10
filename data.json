@@ -1,5 +1,17 @@
 [
   {
+    "title": "零式舰战62型(爆战)",
+    "remark": "内容扩充",
+    "date": "2024/7/9",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "南西海域/7-5",
+    "remark": "掉落表",
+    "date": "2024/7/9",
+    "contributor": "PeterWong"
+  },
+  {
     "title": "祥凤",
     "remark": "内容扩充",
     "date": "2024/7/8",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/7/2",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "通信装置&要员",
-    "remark": "内容扩充",
-    "date": "2024/6/30",
-    "contributor": "丘丘"
-  },
-  {
-    "title": "舰队通信天线",
-    "remark": "内容扩充",
-    "date": "2024/6/30",
-    "contributor": "丘丘"
   }
 ]
