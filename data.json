@@ -1,5 +1,11 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2024/7/23",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "任务",
     "remark": "修正笔误 消歧义 内容扩充",
     "date": "2024/7/20",
@@ -22,11 +28,5 @@
     "remark": "掉落表",
     "date": "2024/7/9",
     "contributor": "PeterWong"
-  },
-  {
-    "title": "祥凤",
-    "remark": "内容扩充",
-    "date": "2024/7/8",
-    "contributor": "凉风吹雪"
   }
 ]
