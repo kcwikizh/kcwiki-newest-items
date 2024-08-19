@@ -1,5 +1,17 @@
 [
   {
+    "title": "深海栖舰列表",
+    "remark": "修正笔误",
+    "date": "2024/8/18",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
+    "title": "2024年夏季活动/E-3",
+    "remark": "内容扩充",
+    "date": "2024/8/18",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2024/8/17",
@@ -16,17 +28,5 @@
     "remark": "修正笔误 修饰语句",
     "date": "2024/8/16",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "航空战",
-    "remark": "补充村田夜攻",
-    "date": "2024/8/13",
-    "contributor": "大雕"
-  },
-  {
-    "title": "初月",
-    "remark": "内容扩充",
-    "date": "2024/8/10",
-    "contributor": "Krayton sendai"
   }
 ]
