@@ -1,9 +1,15 @@
 [
   {
     "title": "深海栖舰列表",
-    "remark": "修正笔误",
-    "date": "2024/8/18",
+    "remark": "内容扩充",
+    "date": "2024/8/19",
     "contributor": "Oda-shitsukiri"
+  },
+  {
+    "title": "黎塞留",
+    "remark": "-部分语音原文",
+    "date": "2024/8/19",
+    "contributor": "ChocolaX"
   },
   {
     "title": "2024年夏季活动/E-3",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2024/8/16",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "凤凰城",
-    "remark": "修正笔误 修饰语句",
-    "date": "2024/8/16",
-    "contributor": "OwenNiu"
   }
 ]
