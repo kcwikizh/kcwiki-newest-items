@@ -1,5 +1,11 @@
 [
   {
+    "title": "F4U-1D",
+    "remark": "内容扩充",
+    "date": "2024/8/26",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "2024年夏季活动",
     "remark": "内容扩充",
     "date": "2024/8/24",
@@ -22,11 +28,5 @@
     "remark": "内容修正",
     "date": "2024/8/20",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "黎塞留",
-    "remark": "-部分语音原文",
-    "date": "2024/8/19",
-    "contributor": "ChocolaX"
   }
 ]
