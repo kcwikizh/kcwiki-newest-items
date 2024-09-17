@@ -1,15 +1,21 @@
 [
   {
+    "title": "2024年夏季活动/E-5",
+    "remark": "内容扩充",
+    "date": "2024/9/17",
+    "contributor": "OwenNiu"
+  },
+  {
+    "title": "舰娘特殊攻击",
+    "remark": "修正笔误",
+    "date": "2024/9/16",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "攻略:2024年夏季活动攻略/E5",
     "remark": "修正笔误",
     "date": "2024/9/15",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "2024年夏季活动/E-5",
-    "remark": "内容扩充",
-    "date": "2024/9/14",
-    "contributor": "OwenNiu"
   },
   {
     "title": "2024年夏季活动/E-3",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/9/14",
     "contributor": "Mikualpha"
-  },
-  {
-    "title": "2024年夏季活动",
-    "remark": "内容扩充",
-    "date": "2024/9/1",
-    "contributor": "Krayton sendai"
   }
 ]
