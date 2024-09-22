@@ -2,8 +2,14 @@
   {
     "title": "英勇",
     "remark": "内容扩充",
-    "date": "2024/9/19",
+    "date": "2024/9/21",
     "contributor": "凉风吹雪"
+  },
+  {
+    "title": "夜战",
+    "remark": "增加或调整参考来源",
+    "date": "2024/9/21",
+    "contributor": "羽衣翩华"
   },
   {
     "title": "2024年夏季活动/E-5",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2024/9/15",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "2024年夏季活动/E-3",
-    "remark": "内容扩充",
-    "date": "2024/9/14",
-    "contributor": "OwenNiu"
   }
 ]
