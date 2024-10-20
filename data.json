@@ -1,5 +1,23 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2024/10/19",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "攻略:任务配装",
+    "remark": "修正笔误",
+    "date": "2024/10/19",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "季节性/2024年万圣节",
+    "remark": "季节限定语音",
+    "date": "2024/10/19",
+    "contributor": "Mundanity"
+  },
+  {
     "title": "夕暮",
     "remark": "掉落",
     "date": "2024/10/17",
@@ -10,23 +28,5 @@
     "remark": "掉落",
     "date": "2024/10/17",
     "contributor": "PeterWong"
-  },
-  {
-    "title": "南方海域/5-5/带路条件",
-    "remark": "根據日wiki做排版修正",
-    "date": "2024/10/16",
-    "contributor": "AykyuAQ"
-  },
-  {
-    "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2024/10/16",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "西方海域/4-3",
-    "remark": "路線更正",
-    "date": "2024/10/2",
-    "contributor": "Parn01142163"
   }
 ]
