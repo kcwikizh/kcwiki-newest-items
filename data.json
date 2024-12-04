@@ -1,5 +1,11 @@
 [
   {
+    "title": "Fw190 D-9",
+    "remark": "内容扩充",
+    "date": "2024/12/4",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "镇守府海域/1-4",
     "remark": "掉落列表补充与修正",
     "date": "2024/11/27",
@@ -21,12 +27,6 @@
     "title": "镇守府海域/1-1",
     "remark": "掉落列表修正",
     "date": "2024/11/26",
-    "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "镇守府海域/1-6",
-    "remark": "修正笔误",
-    "date": "2024/11/25",
     "contributor": "Oda-shitsukiri"
   }
 ]
