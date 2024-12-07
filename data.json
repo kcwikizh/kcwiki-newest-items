@@ -1,5 +1,23 @@
 [
   {
+    "title": "马里兰",
+    "remark": "内容扩充",
+    "date": "2024/12/6",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "大黄蜂",
+    "remark": "内容扩充",
+    "date": "2024/12/6",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "藤波",
+    "remark": "内容扩充",
+    "date": "2024/12/6",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "F6F-5N",
     "remark": "内容扩充",
     "date": "2024/12/5",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/12/4",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "镇守府海域/1-4",
-    "remark": "掉落列表补充与修正",
-    "date": "2024/11/27",
-    "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "镇守府海域/1-3",
-    "remark": "掉落列表补充与修正",
-    "date": "2024/11/26",
-    "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "镇守府海域/1-2",
-    "remark": "掉落列表修正",
-    "date": "2024/11/26",
-    "contributor": "Oda-shitsukiri"
   }
 ]
