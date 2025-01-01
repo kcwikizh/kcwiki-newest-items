@@ -1,5 +1,11 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2024/12/31",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "季节性/2024年年末大扫除",
     "remark": "内容扩充",
     "date": "2024/12/29",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2024/12/25",
     "contributor": "Mundanity"
-  },
-  {
-    "title": "不知火",
-    "remark": "内容扩充",
-    "date": "2024/12/19",
-    "contributor": "凉风吹雪"
   }
 ]
