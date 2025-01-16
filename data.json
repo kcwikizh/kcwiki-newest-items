@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务",
+    "remark": "修正笔误",
+    "date": "2025/1/15",
+    "contributor": "Cat3467"
+  },
+  {
     "title": "镇守府海域/1-4",
     "remark": "掉落更新",
     "date": "2025/1/12",
@@ -22,11 +28,5 @@
     "remark": "掉落更新",
     "date": "2025/1/12",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "平安丸",
-    "remark": "内容扩充",
-    "date": "2025/1/4",
-    "contributor": "Krayton sendai"
   }
 ]
