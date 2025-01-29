@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "修饰语句",
+    "date": "2025/1/28",
+    "contributor": "Cat3467"
+  },
+  {
     "title": "波拉",
     "remark": "内容扩充",
     "date": "2025/1/27",
@@ -19,12 +25,6 @@
   },
   {
     "title": "第二十二号海防舰",
-    "remark": "内容扩充",
-    "date": "2025/1/27",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "朝日",
     "remark": "内容扩充",
     "date": "2025/1/27",
     "contributor": "Krayton sendai"
