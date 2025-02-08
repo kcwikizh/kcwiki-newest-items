@@ -1,5 +1,17 @@
 [
   {
+    "title": "莫加多尔",
+    "remark": "修正笔误",
+    "date": "2025/2/7",
+    "contributor": "天津风味麻花"
+  },
+  {
+    "title": "华盛顿",
+    "remark": "补充历史资料",
+    "date": "2025/2/7",
+    "contributor": "木头楠木"
+  },
+  {
     "title": "F4U-7",
     "remark": "内容扩充",
     "date": "2025/1/30",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/1/30",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "试制东海",
-    "remark": "内容扩充",
-    "date": "2025/1/30",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "翻译",
-    "date": "2025/1/30",
-    "contributor": "OwenNiu"
   }
 ]
