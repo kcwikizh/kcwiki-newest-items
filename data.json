@@ -1,15 +1,21 @@
 [
   {
+    "title": "基洛夫",
+    "remark": "内容扩充",
+    "date": "2025/3/10",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "2025年春季活动/E-1",
+    "remark": "内容扩充",
+    "date": "2025/3/10",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "条约外巡洋舰水姬",
     "remark": "内容扩充",
     "date": "2025/3/9",
     "contributor": "Geyi11"
-  },
-  {
-    "title": "基洛夫",
-    "remark": "内容扩充",
-    "date": "2025/3/9",
-    "contributor": "Krayton sendai"
   },
   {
     "title": "刺鲅",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/3/8",
     "contributor": "Geyi11"
-  },
-  {
-    "title": "榧",
-    "remark": "内容扩充",
-    "date": "2025/3/8",
-    "contributor": "凉风吹雪"
   }
 ]
