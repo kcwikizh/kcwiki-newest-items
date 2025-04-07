@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2023年节分季节",
+    "remark": "修正笔误",
+    "date": "2025/4/6",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "2025年春季活动/E-4",
     "remark": "内容扩充",
     "date": "2025/4/5",
@@ -22,11 +28,5 @@
     "remark": "南沙群岛",
     "date": "2025/3/31",
     "contributor": "Fantasia"
-  },
-  {
-    "title": "明星改",
-    "remark": "内容扩充",
-    "date": "2025/3/31",
-    "contributor": "凉风吹雪"
   }
 ]
