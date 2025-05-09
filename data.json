@@ -1,5 +1,11 @@
 [
   {
+    "title": "アキラ",
+    "remark": "将アキラ定向到已有页面",
+    "date": "2025/5/8",
+    "contributor": "杜野玉雪"
+  },
+  {
     "title": "季节性/2025年十二周年纪念",
     "remark": "内容扩充",
     "date": "2025/5/5",
@@ -22,11 +28,5 @@
     "remark": "新条目",
     "date": "2025/5/2",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "修正笔误",
-    "date": "2025/5/2",
-    "contributor": "A505278615"
   }
 ]
