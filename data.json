@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2025年十二周年纪念",
+    "remark": "内容扩充",
+    "date": "2025/5/25",
+    "contributor": "Mundanity"
+  },
+  {
     "title": "藤波",
     "remark": "内容扩充",
     "date": "2025/5/24",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/5/21",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "季节性/2024年节分季节",
-    "remark": "修正笔误",
-    "date": "2025/5/20",
-    "contributor": "Krayton sendai"
   }
 ]
