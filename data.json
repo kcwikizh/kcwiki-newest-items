@@ -1,5 +1,11 @@
 [
   {
+    "title": "海外舰最新技术",
+    "remark": "修正笔误",
+    "date": "2025/6/3",
+    "contributor": "零犀"
+  },
+  {
     "title": "近代化改修",
     "remark": "内容扩充",
     "date": "2025/5/31",
@@ -21,12 +27,6 @@
     "title": "季节性/2025年十二周年纪念",
     "remark": "修正笔误",
     "date": "2025/5/26",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "藤波",
-    "remark": "内容扩充",
-    "date": "2025/5/24",
     "contributor": "Krayton sendai"
   }
 ]
