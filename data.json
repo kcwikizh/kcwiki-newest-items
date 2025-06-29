@@ -1,5 +1,17 @@
 [
   {
+    "title": "游戏更新/2025年6月27日",
+    "remark": "内容扩充",
+    "date": "2025/6/28",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "Ho229",
+    "remark": "内容扩充",
+    "date": "2025/6/28",
+    "contributor": "Geyi11"
+  },
+  {
     "title": "杉",
     "remark": "內容擴充",
     "date": "2025/6/24",
@@ -16,17 +28,5 @@
     "remark": "增加5-3夜战的新练级配置",
     "date": "2025/6/18",
     "contributor": "HIMboy"
-  },
-  {
-    "title": "季节性/2025年梅雨季节",
-    "remark": "内容扩充",
-    "date": "2025/6/11",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "季节性",
-    "remark": "内容扩充",
-    "date": "2025/6/10",
-    "contributor": "Krayton sendai"
   }
 ]
