@@ -1,15 +1,21 @@
 [
   {
+    "title": "Ho229",
+    "remark": "内容扩充",
+    "date": "2025/6/29",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "远征列表",
+    "remark": "修正笔误",
+    "date": "2025/6/29",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "游戏更新/2025年6月27日",
     "remark": "内容扩充",
     "date": "2025/6/28",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "Ho229",
-    "remark": "内容扩充",
-    "date": "2025/6/28",
-    "contributor": "Geyi11"
   },
   {
     "title": "杉",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2025/6/24",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "攻略:练级指南",
-    "remark": "增加5-3夜战的新练级配置",
-    "date": "2025/6/18",
-    "contributor": "HIMboy"
   }
 ]
