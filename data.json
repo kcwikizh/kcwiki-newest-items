@@ -1,5 +1,17 @@
 [
   {
+    "title": "初月",
+    "remark": "增加图片",
+    "date": "2025/7/5",
+    "contributor": "工总会天火焚仙"
+  },
+  {
+    "title": "浦风",
+    "remark": "增加{{舰娘快速导航}}",
+    "date": "2025/7/4",
+    "contributor": "工总会天火焚仙"
+  },
+  {
     "title": "理查德·P·利里",
     "remark": "修正笔误",
     "date": "2025/7/1",
@@ -15,18 +27,6 @@
     "title": "任务",
     "remark": "内容扩充",
     "date": "2025/6/30",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "Ho229",
-    "remark": "内容扩充",
-    "date": "2025/6/29",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "远征列表",
-    "remark": "修正笔误",
-    "date": "2025/6/29",
     "contributor": "凉风吹雪"
   }
 ]
