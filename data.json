@@ -1,7 +1,13 @@
 [
   {
+    "title": "季节性/2025年盛夏季节",
+    "remark": "内容扩充",
+    "date": "2025/7/5",
+    "contributor": "Mundanity"
+  },
+  {
     "title": "初月",
-    "remark": "增加图片",
+    "remark": "增加舰娘设定",
     "date": "2025/7/5",
     "contributor": "工总会天火焚仙"
   },
@@ -21,12 +27,6 @@
     "title": "Bf109 T-3(G)",
     "remark": "内容扩充",
     "date": "2025/7/1",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "任务",
-    "remark": "内容扩充",
-    "date": "2025/6/30",
     "contributor": "凉风吹雪"
   }
 ]
