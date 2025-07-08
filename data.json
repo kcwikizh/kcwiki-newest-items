@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ju87 D-4(Fliegerass)",
+    "remark": "内容扩充",
+    "date": "2025/7/7",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "哥特兰",
     "remark": "哥特兰之名",
     "date": "2025/7/7",
@@ -22,11 +28,5 @@
     "remark": "增加{{舰娘快速导航}}",
     "date": "2025/7/4",
     "contributor": "工总会天火焚仙"
-  },
-  {
-    "title": "理查德·P·利里",
-    "remark": "修正笔误",
-    "date": "2025/7/1",
-    "contributor": "凉风吹雪"
   }
 ]
