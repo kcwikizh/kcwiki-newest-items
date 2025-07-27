@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2025/7/26",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "金刚",
     "remark": "修正笔误",
     "date": "2025/7/21",
@@ -19,12 +25,6 @@
   },
   {
     "title": "藤波",
-    "remark": "内容扩充",
-    "date": "2025/7/21",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "滨波",
     "remark": "内容扩充",
     "date": "2025/7/21",
     "contributor": "Krayton sendai"
