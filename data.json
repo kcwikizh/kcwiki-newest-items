@@ -1,9 +1,21 @@
 [
   {
-    "title": "任务/最新任务",
+    "title": "季节性/2025年盛夏季节",
     "remark": "内容扩充",
-    "date": "2025/7/26",
+    "date": "2025/7/27",
     "contributor": "Krayton sendai"
+  },
+  {
+    "title": "任务/最新任务",
+    "remark": "添加任务编号和quest id",
+    "date": "2025/7/27",
+    "contributor": "TrickLin"
+  },
+  {
+    "title": "后期型舰首鱼雷(6门)",
+    "remark": "内容扩充",
+    "date": "2025/7/27",
+    "contributor": "凉风吹雪"
   },
   {
     "title": "金刚",
@@ -12,21 +24,9 @@
     "contributor": "得梅因"
   },
   {
-    "title": "季节性/2025年盛夏季节",
-    "remark": "内容扩充",
-    "date": "2025/7/21",
-    "contributor": "Krayton sendai"
-  },
-  {
     "title": "西方海域/4-2",
     "remark": "新加运输舰配置",
     "date": "2025/7/21",
     "contributor": "BUGConan"
-  },
-  {
-    "title": "藤波",
-    "remark": "内容扩充",
-    "date": "2025/7/21",
-    "contributor": "Krayton sendai"
   }
 ]
