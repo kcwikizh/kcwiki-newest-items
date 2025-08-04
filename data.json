@@ -1,5 +1,11 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2025/8/3",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "新型喷进装备开发资材",
     "remark": "內容擴充",
     "date": "2025/7/28",
@@ -22,11 +28,5 @@
     "remark": "添加任务编号和quest id",
     "date": "2025/7/27",
     "contributor": "TrickLin"
-  },
-  {
-    "title": "后期型舰首鱼雷(6门)",
-    "remark": "内容扩充",
-    "date": "2025/7/27",
-    "contributor": "凉风吹雪"
   }
 ]
