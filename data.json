@@ -1,5 +1,11 @@
 [
   {
+    "title": "卷云",
+    "remark": "内容扩充",
+    "date": "2025/8/5",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2025/8/3",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/7/27",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "添加任务编号和quest id",
-    "date": "2025/7/27",
-    "contributor": "TrickLin"
   }
 ]
