@@ -1,5 +1,11 @@
 [
   {
+    "title": "攻略:练级指南",
+    "remark": "优化练级方法",
+    "date": "2025/9/5",
+    "contributor": "BUGConan"
+  },
+  {
     "title": "照月",
     "remark": "内容扩充",
     "date": "2025/9/3",
@@ -22,11 +28,5 @@
     "remark": "更改",
     "date": "2025/8/30",
     "contributor": "Nanjingtx"
-  },
-  {
-    "title": "远征列表",
-    "remark": "期间——&gt;旗舰",
-    "date": "2025/8/28",
-    "contributor": "得梅因"
   }
 ]
