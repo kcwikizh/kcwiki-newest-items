@@ -1,5 +1,11 @@
 [
   {
+    "title": "阿贺野",
+    "remark": "内容扩充",
+    "date": "2025/9/10",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "攻略:练级指南",
     "remark": "优化练级方法",
     "date": "2025/9/5",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/8/31",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "彗星一二型(三一号光电管爆弹搭载机)",
-    "remark": "更改",
-    "date": "2025/8/30",
-    "contributor": "Nanjingtx"
   }
 ]
