@@ -1,5 +1,17 @@
 [
   {
+    "title": "长波",
+    "remark": "长波相关诸图片增加 内容扩充",
+    "date": "2025/9/17",
+    "contributor": "工总会天火焚仙"
+  },
+  {
+    "title": "加贺",
+    "remark": "内容扩充",
+    "date": "2025/9/17",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "阿贺野",
     "remark": "内容扩充",
     "date": "2025/9/10",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/9/3",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "冬月",
-    "remark": "修正笔误",
-    "date": "2025/9/3",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2025/8/31",
-    "contributor": "Krayton sendai"
   }
 ]
