@@ -1,5 +1,11 @@
 [
   {
+    "title": "Shibafu",
+    "remark": "新条目",
+    "date": "2025/10/10",
+    "contributor": "TMO"
+  },
+  {
     "title": "加富尔伯爵",
     "remark": "内容扩充",
     "date": "2025/10/5",
@@ -19,12 +25,6 @@
   },
   {
     "title": "杰维斯",
-    "remark": "内容扩充",
-    "date": "2025/10/5",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "甘比尔湾",
     "remark": "内容扩充",
     "date": "2025/10/5",
     "contributor": "Krayton sendai"
