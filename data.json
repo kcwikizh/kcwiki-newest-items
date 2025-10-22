@@ -1,5 +1,11 @@
 [
   {
+    "title": "建造",
+    "remark": "内容扩充 修饰语句",
+    "date": "2025/10/21",
+    "contributor": "Kansokusha"
+  },
+  {
     "title": "SBD VS-2(侦查飞行队)",
     "remark": "内容扩充",
     "date": "2025/10/20",
@@ -22,11 +28,5 @@
     "remark": "新条目",
     "date": "2025/10/10",
     "contributor": "TMO"
-  },
-  {
-    "title": "加富尔伯爵",
-    "remark": "内容扩充",
-    "date": "2025/10/5",
-    "contributor": "Krayton sendai"
   }
 ]
