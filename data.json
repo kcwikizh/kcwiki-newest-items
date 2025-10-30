@@ -1,5 +1,11 @@
 [
   {
+    "title": "夜战",
+    "remark": "内容扩充",
+    "date": "2025/10/29",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "理查德·P·利里",
     "remark": "内容扩充",
     "date": "2025/10/25",
@@ -22,11 +28,5 @@
     "remark": "维护清理",
     "date": "2025/10/24",
     "contributor": "工总会天火焚仙"
-  },
-  {
-    "title": "建造",
-    "remark": "内容扩充 修饰语句",
-    "date": "2025/10/21",
-    "contributor": "Kansokusha"
   }
 ]
