@@ -1,5 +1,11 @@
 [
   {
+    "title": "游戏豆知识/史实背景篇",
+    "remark": "内容扩充",
+    "date": "2025/11/13",
+    "contributor": "Kuchinashi"
+  },
+  {
     "title": "2025年秋季活动/E-1",
     "remark": "调整格式、排版",
     "date": "2025/11/11",
@@ -22,11 +28,5 @@
     "remark": "创建空白页面",
     "date": "2025/11/5",
     "contributor": "TrickLin"
-  },
-  {
-    "title": "夜战",
-    "remark": "内容扩充",
-    "date": "2025/10/29",
-    "contributor": "OwenNiu"
   }
 ]
