@@ -1,15 +1,21 @@
 [
   {
+    "title": "2025年秋季活动/E-3",
+    "remark": "内容扩充：削甲条件更新",
+    "date": "2025/11/18",
+    "contributor": "Kuchinashi"
+  },
+  {
+    "title": "轻巡洋舰MU级",
+    "remark": "内容扩充",
+    "date": "2025/11/18",
+    "contributor": "Geyi11"
+  },
+  {
     "title": "2025年秋季活动/E-4",
     "remark": "内容扩充",
     "date": "2025/11/17",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "2025年秋季活动/E-3",
-    "remark": "内容扩充",
-    "date": "2025/11/16",
-    "contributor": "Krayton sendai"
   },
   {
     "title": "胡蜂",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/11/15",
     "contributor": "凉风吹雪"
-  },
-  {
-    "title": "季节性/2025年秋刀鱼祭典",
-    "remark": "修正笔误",
-    "date": "2025/11/14",
-    "contributor": "夏天炎"
   }
 ]
