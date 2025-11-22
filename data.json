@@ -1,5 +1,11 @@
 [
   {
+    "title": "内华达",
+    "remark": "添加了一些中文译文",
+    "date": "2025/11/22",
+    "contributor": "Laochenlaofang"
+  },
+  {
     "title": "2025年秋季活动/E-4",
     "remark": "内容扩充",
     "date": "2025/11/20",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/11/16",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "胜利",
-    "remark": "内容扩充",
-    "date": "2025/11/15",
-    "contributor": "凉风吹雪"
   }
 ]
