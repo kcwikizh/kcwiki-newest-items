@@ -1,5 +1,11 @@
 [
   {
+    "title": "凉波",
+    "remark": "凉波之名增加 内容扩充",
+    "date": "2025/11/22",
+    "contributor": "工总会天火焚仙"
+  },
+  {
     "title": "内华达",
     "remark": "添加了一些中文译文",
     "date": "2025/11/22",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/11/18",
     "contributor": "Geyi11"
-  },
-  {
-    "title": "胡蜂",
-    "remark": "内容扩充",
-    "date": "2025/11/16",
-    "contributor": "Krayton sendai"
   }
 ]
