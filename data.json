@@ -1,5 +1,23 @@
 [
   {
+    "title": "武藏",
+    "remark": "修正笔误",
+    "date": "2025/11/28",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "光荣(Glorious)",
+    "remark": "内容扩充",
+    "date": "2025/11/28",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "Shibafu",
+    "remark": "内容扩充",
+    "date": "2025/11/28",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "2025年秋季活动/E-3",
     "remark": "内容扩充",
     "date": "2025/11/27",
@@ -10,23 +28,5 @@
     "remark": "格式整理变更",
     "date": "2025/11/26",
     "contributor": "Frozen kiwi"
-  },
-  {
-    "title": "震电改",
-    "remark": "资料来源 内容扩充",
-    "date": "2025/11/26",
-    "contributor": "工总会天火焚仙"
-  },
-  {
-    "title": "2025年秋季活动/E-4",
-    "remark": "内容扩充",
-    "date": "2025/11/24",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "凉波",
-    "remark": "凉波之名增加 内容扩充",
-    "date": "2025/11/22",
-    "contributor": "工总会天火焚仙"
   }
 ]
