@@ -1,5 +1,11 @@
 [
   {
+    "title": "2025年秋季活动/E-4",
+    "remark": "内容扩充",
+    "date": "2025/12/2",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "光荣(Glorious)",
     "remark": "内容扩充",
     "date": "2025/12/1",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2025/11/29",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "强风改二(熟练)",
-    "remark": "创建空白页面",
-    "date": "2025/11/29",
-    "contributor": "Saber707"
   }
 ]
