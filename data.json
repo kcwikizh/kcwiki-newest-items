@@ -1,5 +1,11 @@
 [
   {
+    "title": "藤波",
+    "remark": "内容扩充",
+    "date": "2025/12/5",
+    "contributor": "工总会天火焚仙"
+  },
+  {
     "title": "2025年秋季活动/E-4",
     "remark": "内容扩充",
     "date": "2025/12/2",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/11/29",
     "contributor": "Kuchinashi"
-  },
-  {
-    "title": "2025年秋季活动/E-3",
-    "remark": "修正笔误",
-    "date": "2025/11/29",
-    "contributor": "Oda-shitsukiri"
   }
 ]
