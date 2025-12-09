@@ -1,5 +1,11 @@
 [
   {
+    "title": "夜战",
+    "remark": "修正笔误",
+    "date": "2025/12/8",
+    "contributor": "月之住人"
+  },
+  {
     "title": "攻略:2025年秋季活动攻略/E4",
     "remark": "修正笔误",
     "date": "2025/12/7",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/12/2",
     "contributor": "OwenNiu"
-  },
-  {
-    "title": "光荣(Glorious)",
-    "remark": "内容扩充",
-    "date": "2025/12/1",
-    "contributor": "Krayton sendai"
   }
 ]
