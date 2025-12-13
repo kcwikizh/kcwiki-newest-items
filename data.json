@@ -1,5 +1,11 @@
 [
   {
+    "title": "深海栖舰列表",
+    "remark": "修正笔误",
+    "date": "2025/12/12",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
     "title": "藤波",
     "remark": "图片增加 内容扩充",
     "date": "2025/12/11",
@@ -22,11 +28,5 @@
     "remark": "陆航刷闪 内容扩充2",
     "date": "2025/12/6",
     "contributor": "工总会天火焚仙"
-  },
-  {
-    "title": "2025年秋季活动/E-4",
-    "remark": "内容扩充",
-    "date": "2025/12/2",
-    "contributor": "OwenNiu"
   }
 ]
