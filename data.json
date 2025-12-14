@@ -1,5 +1,11 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2025/12/13",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "深海栖舰列表",
     "remark": "修正笔误",
     "date": "2025/12/12",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2025/12/7",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "中部海域/6-5",
-    "remark": "陆航刷闪 内容扩充2",
-    "date": "2025/12/6",
-    "contributor": "工总会天火焚仙"
   }
 ]
