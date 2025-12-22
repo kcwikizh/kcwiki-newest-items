@@ -1,5 +1,17 @@
 [
   {
+    "title": "适重炮",
+    "remark": "更新适重炮系统、数据",
+    "date": "2025/12/21",
+    "contributor": "Kuchinashi"
+  },
+  {
+    "title": "周边活动立绘",
+    "remark": "修正笔误",
+    "date": "2025/12/21",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "季节性/2025年圣诞节",
     "remark": "创建空白页面",
     "date": "2025/12/18",
@@ -16,17 +28,5 @@
     "remark": "E1解谜、削甲条件更新",
     "date": "2025/12/16",
     "contributor": "Kuchinashi"
-  },
-  {
-    "title": "2025年秋季活动/E-4",
-    "remark": "E4解谜、削甲条件更新",
-    "date": "2025/12/16",
-    "contributor": "Kuchinashi"
-  },
-  {
-    "title": "驱逐舰NA级",
-    "remark": "内容扩充",
-    "date": "2025/12/14",
-    "contributor": "Shuaiyang"
   }
 ]
