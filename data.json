@@ -1,5 +1,11 @@
 [
   {
+    "title": "秋月",
+    "remark": "内容扩充",
+    "date": "2025/12/25",
+    "contributor": "工总会天火焚仙"
+  },
+  {
     "title": "游戏豆知识/史实背景篇",
     "remark": "内容扩充",
     "date": "2025/12/24",
@@ -22,11 +28,5 @@
     "remark": "更新适重炮系统、数据",
     "date": "2025/12/21",
     "contributor": "Kuchinashi"
-  },
-  {
-    "title": "季节性/2025年圣诞节",
-    "remark": "创建空白页面",
-    "date": "2025/12/18",
-    "contributor": "TrickLin"
   }
 ]
