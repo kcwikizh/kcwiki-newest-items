@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "添加任务结束日期",
+    "date": "2025/12/26",
+    "contributor": "我是超级憨猫土豆王"
+  },
+  {
+    "title": "战果和排名奖励",
+    "remark": "内容扩充 补充查询人事表的方法",
+    "date": "2025/12/26",
+    "contributor": "Shuaiyang"
+  },
+  {
     "title": "秋月",
     "remark": "内容扩充",
     "date": "2025/12/25",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/12/22",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "修正笔误",
-    "date": "2025/12/22",
-    "contributor": "Geyi11"
-  },
-  {
-    "title": "适重炮",
-    "remark": "更新适重炮系统、数据",
-    "date": "2025/12/21",
-    "contributor": "Kuchinashi"
   }
 ]
