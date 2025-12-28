@@ -1,5 +1,11 @@
 [
   {
+    "title": "吞武里",
+    "remark": "创建空白页面",
+    "date": "2025/12/27",
+    "contributor": "Saber707"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "添加任务结束日期",
     "date": "2025/12/26",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/12/24",
     "contributor": "Kuchinashi"
-  },
-  {
-    "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2025/12/22",
-    "contributor": "Krayton sendai"
   }
 ]
