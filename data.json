@@ -1,15 +1,21 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2025/12/28",
+    "contributor": "Shoukakusora"
+  },
+  {
+    "title": "季节性/2025年圣诞节",
+    "remark": "内容扩充",
+    "date": "2025/12/28",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "吞武里",
     "remark": "创建空白页面",
     "date": "2025/12/27",
     "contributor": "Saber707"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "添加任务结束日期",
-    "date": "2025/12/26",
-    "contributor": "我是超级憨猫土豆王"
   },
   {
     "title": "战果和排名奖励",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2025/12/25",
     "contributor": "工总会天火焚仙"
-  },
-  {
-    "title": "游戏豆知识/史实背景篇",
-    "remark": "内容扩充",
-    "date": "2025/12/24",
-    "contributor": "Kuchinashi"
   }
 ]
