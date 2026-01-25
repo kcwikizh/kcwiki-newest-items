@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务",
+    "remark": "修正笔误",
+    "date": "2026/1/24",
+    "contributor": "凉风吹雪"
+  },
+  {
     "title": "三式战 飞燕",
     "remark": "内容扩充",
     "date": "2026/1/20",
@@ -19,12 +25,6 @@
   },
   {
     "title": "迅鲸",
-    "remark": "内容扩充",
-    "date": "2026/1/18",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "大泊",
     "remark": "内容扩充",
     "date": "2026/1/18",
     "contributor": "Krayton sendai"
