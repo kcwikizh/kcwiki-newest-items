@@ -1,5 +1,11 @@
 [
   {
+    "title": "南西海域/7-3",
+    "remark": "修正筆誤",
+    "date": "2026/2/14",
+    "contributor": "Ixcy"
+  },
+  {
     "title": "震电改三(试制 喷式震电)",
     "remark": "修正笔误",
     "date": "2026/2/13",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2026/2/13",
     "contributor": "Geyi11"
-  },
-  {
-    "title": "试制 震电(局地战斗机)",
-    "remark": "删除重复内容",
-    "date": "2026/2/11",
-    "contributor": "TRUBAKI"
   }
 ]
