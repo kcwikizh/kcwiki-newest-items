@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "修正笔误",
+    "date": "2026/2/15",
+    "contributor": "Shoukakusora"
+  },
+  {
     "title": "南西海域/7-3",
     "remark": "修正筆誤",
     "date": "2026/2/14",
@@ -20,12 +26,6 @@
   {
     "title": "天山一二型甲改二(村田队/电探装备)",
     "remark": "内容扩充",
-    "date": "2026/2/13",
-    "contributor": "Geyi11"
-  },
-  {
-    "title": "流星改(友永队)",
-    "remark": "修正笔误",
     "date": "2026/2/13",
     "contributor": "Geyi11"
   }
