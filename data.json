@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "修正翻译",
+    "date": "2026/2/24",
+    "contributor": "Gemini Evan"
+  },
+  {
     "title": "大泊",
     "remark": "内容扩充",
     "date": "2026/2/21",
@@ -19,12 +25,6 @@
   },
   {
     "title": "路易吉·托雷利",
-    "remark": "内容扩充",
-    "date": "2026/2/21",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "吞武里",
     "remark": "内容扩充",
     "date": "2026/2/21",
     "contributor": "Krayton sendai"
