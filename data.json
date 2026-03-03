@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "前置补充",
+    "date": "2026/3/2",
+    "contributor": "Shoukakusora"
+  },
+  {
+    "title": "季节性/2026年女儿节",
+    "remark": "创建空白页面",
+    "date": "2026/3/2",
+    "contributor": "TrickLin"
+  },
+  {
     "title": "53cm连装鱼雷改(酸素鱼雷)",
     "remark": "内容扩充",
     "date": "2026/2/27",
@@ -15,18 +27,6 @@
     "title": "季节性/2026年情人节",
     "remark": "内容扩充",
     "date": "2026/2/27",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "修正翻译",
-    "date": "2026/2/24",
-    "contributor": "Gemini Evan"
-  },
-  {
-    "title": "大泊",
-    "remark": "内容扩充",
-    "date": "2026/2/21",
     "contributor": "Krayton sendai"
   }
 ]
