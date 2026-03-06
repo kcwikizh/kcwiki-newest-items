@@ -1,5 +1,17 @@
 [
   {
+    "title": "天鹰",
+    "remark": "修正笔误",
+    "date": "2026/3/5",
+    "contributor": "舟长子"
+  },
+  {
+    "title": "商店",
+    "remark": "保持描述一致",
+    "date": "2026/3/5",
+    "contributor": "Akimotokaito"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "修正扩张任务的中文任务文本",
     "date": "2026/3/3",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/2/27",
     "contributor": "Geyi11"
-  },
-  {
-    "title": "季节性/2024年梅雨季节",
-    "remark": "内容扩充",
-    "date": "2026/2/27",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "季节性/2026年情人节",
-    "remark": "内容扩充",
-    "date": "2026/2/27",
-    "contributor": "Krayton sendai"
   }
 ]
