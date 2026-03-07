@@ -1,5 +1,11 @@
 [
   {
+    "title": "新型兵装资材",
+    "remark": "內容擴充",
+    "date": "2026/3/6",
+    "contributor": "陳可倫"
+  },
+  {
     "title": "天鹰",
     "remark": "修正笔误",
     "date": "2026/3/5",
@@ -22,11 +28,5 @@
     "remark": "创建空白页面",
     "date": "2026/3/2",
     "contributor": "TrickLin"
-  },
-  {
-    "title": "53cm连装鱼雷改(酸素鱼雷)",
-    "remark": "内容扩充",
-    "date": "2026/2/27",
-    "contributor": "Geyi11"
   }
 ]
