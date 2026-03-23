@@ -1,5 +1,17 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2026/3/22",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "飞龙",
+    "remark": "内容扩充",
+    "date": "2026/3/22",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "内容扩充",
     "date": "2026/3/20",
@@ -16,17 +28,5 @@
     "remark": "修正笔误",
     "date": "2026/3/19",
     "contributor": "文尼"
-  },
-  {
-    "title": "早波",
-    "remark": "修正笔误",
-    "date": "2026/3/16",
-    "contributor": "Vishnu"
-  },
-  {
-    "title": "玉波",
-    "remark": "更新改二立绘",
-    "date": "2026/3/14",
-    "contributor": "Kuchinashi"
   }
 ]
