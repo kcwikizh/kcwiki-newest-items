@@ -1,5 +1,11 @@
 [
   {
+    "title": "吞武里",
+    "remark": "内容扩充",
+    "date": "2026/4/6",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "修正笔误",
     "date": "2026/4/4",
@@ -22,11 +28,5 @@
     "remark": "添加任务结束日期",
     "date": "2026/4/2",
     "contributor": "我是超级憨猫土豆王"
-  },
-  {
-    "title": "龙田",
-    "remark": "内容扩充",
-    "date": "2026/4/1",
-    "contributor": "凉风吹雪"
   }
 ]
