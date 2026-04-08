@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2026/4/7",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "任务/期间限定任务",
+    "remark": "2026年桃之节句任务群归档",
+    "date": "2026/4/7",
+    "contributor": "我是超级憨猫土豆王"
+  },
+  {
     "title": "吞武里",
     "remark": "内容扩充",
     "date": "2026/4/6",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/4/3",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "北安普敦",
-    "remark": "修正笔误",
-    "date": "2026/4/3",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "添加任务结束日期",
-    "date": "2026/4/2",
-    "contributor": "我是超级憨猫土豆王"
   }
 ]
