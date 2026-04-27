@@ -1,5 +1,17 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2026/4/26",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2026/4/26",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "建造",
     "remark": "内容扩充：天鹰",
     "date": "2026/4/25",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/4/25",
     "contributor": "Geyi11"
-  },
-  {
-    "title": "SC雷达改(后期调整型)",
-    "remark": "内容扩充",
-    "date": "2026/4/25",
-    "contributor": "Geyi11"
-  },
-  {
-    "title": "吹雪",
-    "remark": "改三",
-    "date": "2026/4/24",
-    "contributor": "Tom899f"
   }
 ]
