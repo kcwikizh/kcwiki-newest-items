@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "2026菖蒲季节任务框架搭建",
+    "date": "2026/5/1",
+    "contributor": "我是超级憨猫土豆王"
+  },
+  {
+    "title": "胧",
+    "remark": "内容扩充",
+    "date": "2026/4/30",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "游戏更新",
     "remark": "更新",
     "date": "2026/4/27",
@@ -12,21 +24,9 @@
     "contributor": "Krayton sendai"
   },
   {
-    "title": "任务/最新任务",
-    "remark": "内容扩充",
-    "date": "2026/4/26",
-    "contributor": "OwenNiu"
-  },
-  {
     "title": "建造",
     "remark": "内容扩充：天鹰",
     "date": "2026/4/25",
     "contributor": "我是超级憨猫土豆王"
-  },
-  {
-    "title": "12.7cm单装高角炮改三",
-    "remark": "内容扩充",
-    "date": "2026/4/25",
-    "contributor": "Geyi11"
   }
 ]
