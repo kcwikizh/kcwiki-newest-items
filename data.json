@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务",
+    "remark": "修正笔误",
+    "date": "2026/5/10",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "季节性/2026年十三周年纪念",
     "remark": "内容扩充",
     "date": "2026/5/9",
@@ -22,11 +28,5 @@
     "remark": "2026菖蒲季节任务框架搭建",
     "date": "2026/5/1",
     "contributor": "我是超级憨猫土豆王"
-  },
-  {
-    "title": "胧",
-    "remark": "内容扩充",
-    "date": "2026/4/30",
-    "contributor": "Krayton sendai"
   }
 ]
