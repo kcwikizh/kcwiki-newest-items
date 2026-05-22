@@ -1,5 +1,17 @@
 [
   {
+    "title": "武蔵改二",
+    "remark": "增加或调整内部链接",
+    "date": "2026/5/21",
+    "contributor": "BPNK"
+  },
+  {
+    "title": "战斗详报",
+    "remark": "内容扩充 调整格式、排版",
+    "date": "2026/5/21",
+    "contributor": "BPNK"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2026/5/18",
@@ -16,17 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/5/9",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "藤波",
-    "remark": "内容扩充",
-    "date": "2026/5/5",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "2026菖蒲季节任务框架搭建",
-    "date": "2026/5/1",
-    "contributor": "我是超级憨猫土豆王"
   }
 ]
