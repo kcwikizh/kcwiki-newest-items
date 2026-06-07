@@ -1,5 +1,11 @@
 [
   {
+    "title": "季节性/2026年梅雨季节",
+    "remark": "内容扩充",
+    "date": "2026/6/6",
+    "contributor": "Mundanity"
+  },
+  {
     "title": "25mm连装机铳(熟练机铳员分队)",
     "remark": "内容扩充",
     "date": "2026/5/30",
@@ -21,12 +27,6 @@
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2026/5/18",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "任务",
-    "remark": "修正笔误",
-    "date": "2026/5/10",
     "contributor": "Krayton sendai"
   }
 ]
