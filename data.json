@@ -1,5 +1,11 @@
 [
   {
+    "title": "英勇",
+    "remark": "添加cv与画师",
+    "date": "2026/6/23",
+    "contributor": "Shiroumomo"
+  },
+  {
     "title": "任务",
     "remark": "内容扩充",
     "date": "2026/6/17",
@@ -22,11 +28,5 @@
     "remark": "修复双重重定向",
     "date": "2026/6/8",
     "contributor": "小美粉粉"
-  },
-  {
-    "title": "季节性/2026年梅雨季节",
-    "remark": "内容扩充",
-    "date": "2026/6/6",
-    "contributor": "Mundanity"
   }
 ]
