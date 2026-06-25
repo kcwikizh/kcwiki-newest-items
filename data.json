@@ -1,5 +1,11 @@
 [
   {
+    "title": "鲦鱼",
+    "remark": "更新cv",
+    "date": "2026/6/24",
+    "contributor": "Shiroumomo"
+  },
+  {
     "title": "英勇",
     "remark": "添加cv与画师",
     "date": "2026/6/23",
@@ -20,12 +26,6 @@
   {
     "title": "舰娘百科:装备版面反馈",
     "remark": "-",
-    "date": "2026/6/8",
-    "contributor": "小美粉粉"
-  },
-  {
-    "title": "装备版面反馈",
-    "remark": "修复双重重定向",
     "date": "2026/6/8",
     "contributor": "小美粉粉"
   }
