@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "调整格式、排版",
+    "date": "2026/6/26",
+    "contributor": "SanadaTourin"
+  },
+  {
     "title": "鲦鱼",
     "remark": "更新cv",
     "date": "2026/6/24",
@@ -16,12 +22,6 @@
     "remark": "内容扩充",
     "date": "2026/6/17",
     "contributor": "Shiroumomo"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "前置",
-    "date": "2026/6/13",
-    "contributor": "PeterWong"
   },
   {
     "title": "舰娘百科:装备版面反馈",
