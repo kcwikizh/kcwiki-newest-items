@@ -1,5 +1,11 @@
 [
   {
+    "title": "航空战",
+    "remark": "内容更新维护（待校对）",
+    "date": "2026/6/29",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "南西群岛海域/2-4",
     "remark": "内容扩充_添加萌新配装",
     "date": "2026/6/28",
@@ -21,12 +27,6 @@
     "title": "英勇",
     "remark": "添加cv与画师",
     "date": "2026/6/23",
-    "contributor": "Shiroumomo"
-  },
-  {
-    "title": "任务",
-    "remark": "内容扩充",
-    "date": "2026/6/17",
     "contributor": "Shiroumomo"
   }
 ]
