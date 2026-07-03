@@ -1,5 +1,11 @@
 [
   {
+    "title": "大发动艇(R35&法国兵)",
+    "remark": "初版内容填充",
+    "date": "2026/7/2",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "航空战",
     "remark": "内容更新维护（待校对）",
     "date": "2026/6/29",
@@ -21,12 +27,6 @@
     "title": "鲦鱼",
     "remark": "更新cv",
     "date": "2026/6/24",
-    "contributor": "Shiroumomo"
-  },
-  {
-    "title": "英勇",
-    "remark": "添加cv与画师",
-    "date": "2026/6/23",
     "contributor": "Shiroumomo"
   }
 ]
