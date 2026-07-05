@@ -1,5 +1,17 @@
 [
   {
+    "title": "开发",
+    "remark": "添加三式战 飞燕的开发公式",
+    "date": "2026/7/4",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2026/7/4",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "大发动艇(R35&法国兵)",
     "remark": "初版内容填充",
     "date": "2026/7/2",
@@ -16,17 +28,5 @@
     "remark": "内容扩充_添加萌新配装",
     "date": "2026/6/28",
     "contributor": "LankerCN"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "调整格式、排版",
-    "date": "2026/6/26",
-    "contributor": "SanadaTourin"
-  },
-  {
-    "title": "鲦鱼",
-    "remark": "更新cv",
-    "date": "2026/6/24",
-    "contributor": "Shiroumomo"
   }
 ]
