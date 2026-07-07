@@ -1,5 +1,11 @@
 [
   {
+    "title": "扎拉",
+    "remark": "修改陈旧掉落信息",
+    "date": "2026/7/6",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "开发",
     "remark": "添加三式战 飞燕的开发公式",
     "date": "2026/7/4",
@@ -21,12 +27,6 @@
     "title": "航空战",
     "remark": "内容更新维护（待校对）",
     "date": "2026/6/29",
-    "contributor": "LankerCN"
-  },
-  {
-    "title": "南西群岛海域/2-4",
-    "remark": "内容扩充_添加萌新配装",
-    "date": "2026/6/28",
     "contributor": "LankerCN"
   }
 ]
