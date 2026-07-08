@@ -1,5 +1,11 @@
 [
   {
+    "title": "朝霜",
+    "remark": "添加朝霜改二补",
+    "date": "2026/7/7",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "扎拉",
     "remark": "修改陈旧掉落信息",
     "date": "2026/7/6",
@@ -21,12 +27,6 @@
     "title": "大发动艇(R35&法国兵)",
     "remark": "初版内容填充",
     "date": "2026/7/2",
-    "contributor": "LankerCN"
-  },
-  {
-    "title": "航空战",
-    "remark": "内容更新维护（待校对）",
-    "date": "2026/6/29",
     "contributor": "LankerCN"
   }
 ]
