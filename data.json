@@ -1,5 +1,11 @@
 [
   {
+    "title": "2026年夏季活动",
+    "remark": "调整E2奖励格式",
+    "date": "2026/7/9",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "朝霜",
     "remark": "添加朝霜改二补",
     "date": "2026/7/7",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/7/4",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "大发动艇(R35&法国兵)",
-    "remark": "初版内容填充",
-    "date": "2026/7/2",
-    "contributor": "LankerCN"
   }
 ]
