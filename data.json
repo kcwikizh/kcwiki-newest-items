@@ -1,5 +1,23 @@
 [
   {
+    "title": "季节性/2026年初夏季节",
+    "remark": "内容扩充",
+    "date": "2026/7/13",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "花月",
+    "remark": "內容擴充",
+    "date": "2026/7/13",
+    "contributor": "燕飲冰"
+  },
+  {
+    "title": "2026年夏季活动",
+    "remark": "更新",
+    "date": "2026/7/13",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "印第安纳",
     "remark": "内容扩充",
     "date": "2026/7/13",
@@ -10,23 +28,5 @@
     "remark": "內容擴充",
     "date": "2026/7/11",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "2026年夏季活动",
-    "remark": "修改BOSS点位备注",
-    "date": "2026/7/11",
-    "contributor": "LankerCN"
-  },
-  {
-    "title": "拆包BGM列表",
-    "remark": "2026夏",
-    "date": "2026/7/11",
-    "contributor": "KJaio"
-  },
-  {
-    "title": "改修优先级",
-    "remark": "修正过时信息",
-    "date": "2026/7/11",
-    "contributor": "LankerCN"
   }
 ]
