@@ -1,8 +1,14 @@
 [
   {
+    "title": "阿尔及利亚",
+    "remark": "內容擴充",
+    "date": "2026/7/20",
+    "contributor": "燕飲冰"
+  },
+  {
     "title": "2026年夏季活动",
-    "remark": "E5奖励补完",
-    "date": "2026/7/19",
+    "remark": "E4E5更新",
+    "date": "2026/7/20",
     "contributor": "LankerCN"
   },
   {
@@ -22,11 +28,5 @@
     "remark": "內容擴充",
     "date": "2026/7/16",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "2026年夏季活动/E-1",
-    "remark": "修正笔误",
-    "date": "2026/7/15",
-    "contributor": "Krayton sendai"
   }
 ]
