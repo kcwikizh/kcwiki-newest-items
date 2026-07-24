@@ -1,9 +1,21 @@
 [
   {
-    "title": "2026年夏季活动",
-    "remark": "E4E5更新",
+    "title": "足柄",
+    "remark": "修正笔误",
     "date": "2026/7/23",
-    "contributor": "LankerCN"
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "赤城",
+    "remark": "修正笔误",
+    "date": "2026/7/23",
+    "contributor": "凉风吹雪"
+  },
+  {
+    "title": "加贺",
+    "remark": "修正笔误",
+    "date": "2026/7/23",
+    "contributor": "凉风吹雪"
   },
   {
     "title": "贝阿恩",
@@ -12,21 +24,9 @@
     "contributor": "燕飲冰"
   },
   {
-    "title": "阿尔及利亚",
-    "remark": "內容擴充",
-    "date": "2026/7/20",
-    "contributor": "燕飲冰"
-  },
-  {
-    "title": "川内",
-    "remark": "内容扩充",
-    "date": "2026/7/17",
-    "contributor": "凉风吹雪"
-  },
-  {
-    "title": "那珂",
-    "remark": "修正笔误",
-    "date": "2026/7/17",
-    "contributor": "凉风吹雪"
+    "title": "2026年夏季活动",
+    "remark": "E4E5更新",
+    "date": "2026/7/23",
+    "contributor": "LankerCN"
   }
 ]
