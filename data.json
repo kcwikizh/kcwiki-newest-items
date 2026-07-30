@@ -1,5 +1,17 @@
 [
   {
+    "title": "2026年夏季活动/E-5",
+    "remark": "内容扩充",
+    "date": "2026/7/29",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "阻塞气球",
+    "remark": "修正笔误",
+    "date": "2026/7/29",
+    "contributor": "Tfylncg"
+  },
+  {
     "title": "赤城",
     "remark": "修正笔误",
     "date": "2026/7/27",
@@ -16,17 +28,5 @@
     "remark": "內容擴充",
     "date": "2026/7/24",
     "contributor": "燕飲冰"
-  },
-  {
-    "title": "日枝丸",
-    "remark": "內容擴充",
-    "date": "2026/7/24",
-    "contributor": "燕飲冰"
-  },
-  {
-    "title": "足柄",
-    "remark": "修正笔误",
-    "date": "2026/7/23",
-    "contributor": "凉风吹雪"
   }
 ]
