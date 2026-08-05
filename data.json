@@ -1,15 +1,21 @@
 [
   {
+    "title": "2026年夏季活动/E-3",
+    "remark": "更新削甲条件",
+    "date": "2026/8/4",
+    "contributor": "LankerCN"
+  },
+  {
+    "title": "2026年夏季活动/E-4",
+    "remark": "内容扩充",
+    "date": "2026/8/4",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "2026年夏季活动/E-5",
     "remark": "数据补充",
     "date": "2026/8/2",
     "contributor": "Tom899f"
-  },
-  {
-    "title": "2026年夏季活动/E-3",
-    "remark": "内容扩充",
-    "date": "2026/7/31",
-    "contributor": "OwenNiu"
   },
   {
     "title": "攻略:2026年夏季活动攻略/E3",
@@ -22,11 +28,5 @@
     "remark": "E4E5更新",
     "date": "2026/7/30",
     "contributor": "LankerCN"
-  },
-  {
-    "title": "阻塞气球",
-    "remark": "修正笔误",
-    "date": "2026/7/29",
-    "contributor": "Tfylncg"
   }
 ]
