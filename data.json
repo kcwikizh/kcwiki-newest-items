@@ -1,5 +1,23 @@
 [
   {
+    "title": "2026年夏季活动/E-5",
+    "remark": "内容扩充",
+    "date": "2026/8/19",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "重巡洋舰WI级",
+    "remark": "修正笔误",
+    "date": "2026/8/19",
+    "contributor": "LankerCN"
+  },
+  {
+    "title": "层间栖舰水鬼次女",
+    "remark": "修正笔误",
+    "date": "2026/8/19",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "凉波",
     "remark": "内容扩充",
     "date": "2026/8/8",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/8/8",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "2026年夏季活动/E-3",
-    "remark": "更新削甲条件",
-    "date": "2026/8/4",
-    "contributor": "LankerCN"
-  },
-  {
-    "title": "2026年夏季活动/E-4",
-    "remark": "内容扩充",
-    "date": "2026/8/4",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "2026年夏季活动/E-5",
-    "remark": "数据补充",
-    "date": "2026/8/2",
-    "contributor": "Tom899f"
   }
 ]
