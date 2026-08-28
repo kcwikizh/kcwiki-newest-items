@@ -1,5 +1,17 @@
 [
   {
+    "title": "南方海域/5-6",
+    "remark": "内容扩充",
+    "date": "2026/8/28",
+    "contributor": "氡鎶"
+  },
+  {
+    "title": "Widget:SlideAttr",
+    "remark": "增加显示舰娘名称",
+    "date": "2026/8/27",
+    "contributor": "B marisa"
+  },
+  {
     "title": "12.7cm连装炮C型改三H",
     "remark": "修正笔误",
     "date": "2026/8/22",
@@ -16,17 +28,5 @@
     "remark": "修正笔误",
     "date": "2026/8/19",
     "contributor": "LankerCN"
-  },
-  {
-    "title": "层间栖舰水鬼次女",
-    "remark": "修正笔误",
-    "date": "2026/8/19",
-    "contributor": "LankerCN"
-  },
-  {
-    "title": "凉波",
-    "remark": "内容扩充",
-    "date": "2026/8/8",
-    "contributor": "Krayton sendai"
   }
 ]
