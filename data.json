@@ -1,5 +1,11 @@
 [
   {
+    "title": "2026年夏季活动/E-4",
+    "remark": "内容扩充",
+    "date": "2026/8/29",
+    "contributor": "OwenNiu"
+  },
+  {
     "title": "南方海域/5-6",
     "remark": "内容扩充",
     "date": "2026/8/28",
@@ -22,11 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/8/19",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "重巡洋舰WI级",
-    "remark": "修正笔误",
-    "date": "2026/8/19",
-    "contributor": "LankerCN"
   }
 ]
