@@ -1,5 +1,23 @@
 [
   {
+    "title": "周边活动立绘",
+    "remark": "内容扩充",
+    "date": "2026/9/3",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "二式12cm迫击炮改",
+    "remark": "可开发获得",
+    "date": "2026/9/3",
+    "contributor": "SanadaTourin"
+  },
+  {
+    "title": "攻略:2026年夏季活动攻略/E5",
+    "remark": "修正笔误",
+    "date": "2026/9/3",
+    "contributor": "Oda-shitsukiri"
+  },
+  {
     "title": "2026年夏季活动/E-4",
     "remark": "内容扩充",
     "date": "2026/8/29",
@@ -10,23 +28,5 @@
     "remark": "内容扩充",
     "date": "2026/8/28",
     "contributor": "氡鎶"
-  },
-  {
-    "title": "Widget:SlideAttr",
-    "remark": "增加显示舰娘名称",
-    "date": "2026/8/27",
-    "contributor": "B marisa"
-  },
-  {
-    "title": "12.7cm连装炮C型改三H",
-    "remark": "修正笔误",
-    "date": "2026/8/22",
-    "contributor": "老希"
-  },
-  {
-    "title": "2026年夏季活动/E-5",
-    "remark": "内容扩充",
-    "date": "2026/8/19",
-    "contributor": "Krayton sendai"
   }
 ]
