@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "内容扩充",
+    "date": "2026/9/11",
+    "contributor": "OwenNiu"
+  },
+  {
+    "title": "季节性/2026年初秋季节",
+    "remark": "创建空白页面",
+    "date": "2026/9/10",
+    "contributor": "TrickLin"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2026/9/6",
@@ -16,17 +28,5 @@
     "remark": "修正笔误",
     "date": "2026/9/3",
     "contributor": "Oda-shitsukiri"
-  },
-  {
-    "title": "2026年夏季活动/E-4",
-    "remark": "内容扩充",
-    "date": "2026/8/29",
-    "contributor": "OwenNiu"
-  },
-  {
-    "title": "南方海域/5-6",
-    "remark": "内容扩充",
-    "date": "2026/8/28",
-    "contributor": "氡鎶"
   }
 ]
