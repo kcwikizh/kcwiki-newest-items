@@ -1,5 +1,11 @@
 [
   {
+    "title": "活动限定海域",
+    "remark": "修改26夏活描述",
+    "date": "2026/9/22",
+    "contributor": "LankerCN"
+  },
+  {
     "title": "北上",
     "remark": "内容扩充",
     "date": "2026/9/19",
@@ -22,11 +28,5 @@
     "remark": "修正笔误/片桐大二→片桐大自",
     "date": "2026/9/16",
     "contributor": "SanadaTourin"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "内容扩充",
-    "date": "2026/9/11",
-    "contributor": "OwenNiu"
   }
 ]
