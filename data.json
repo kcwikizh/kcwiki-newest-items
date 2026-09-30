@@ -1,5 +1,17 @@
 [
   {
+    "title": "任务/最新任务",
+    "remark": "新增任务结束时间",
+    "date": "2026/9/29",
+    "contributor": "SanadaTourin"
+  },
+  {
+    "title": "季节性",
+    "remark": "修正笔误",
+    "date": "2026/9/29",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2026/9/28",
@@ -16,17 +28,5 @@
     "remark": "修改26夏活描述",
     "date": "2026/9/22",
     "contributor": "LankerCN"
-  },
-  {
-    "title": "北上",
-    "remark": "内容扩充",
-    "date": "2026/9/19",
-    "contributor": "Geyi11"
-  },
-  {
-    "title": "山城",
-    "remark": "內容擴充",
-    "date": "2026/9/18",
-    "contributor": "燕飲冰"
   }
 ]
