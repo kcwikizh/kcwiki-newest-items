@@ -1,5 +1,11 @@
 [
   {
+    "title": "任务/期间限定任务",
+    "remark": "2026秋季任务归档",
+    "date": "2026/10/13",
+    "contributor": "我是超级憨猫土豆王"
+  },
+  {
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2026/10/11",
@@ -22,11 +28,5 @@
     "remark": "修正笔误",
     "date": "2026/9/29",
     "contributor": "Krayton sendai"
-  },
-  {
-    "title": "活动限定海域",
-    "remark": "修改26夏活描述",
-    "date": "2026/9/22",
-    "contributor": "LankerCN"
   }
 ]
