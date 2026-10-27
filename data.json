@@ -1,5 +1,11 @@
 [
   {
+    "title": "夜战",
+    "remark": "修正为最早来源",
+    "date": "2026/10/26",
+    "contributor": "Gemini Evan"
+  },
+  {
     "title": "任务/最新任务",
     "remark": "笔误修正",
     "date": "2026/10/15",
@@ -21,12 +27,6 @@
     "title": "周边活动立绘",
     "remark": "内容扩充",
     "date": "2026/10/11",
-    "contributor": "Krayton sendai"
-  },
-  {
-    "title": "季节性/2026年初秋季节",
-    "remark": "修正笔误",
-    "date": "2026/10/6",
     "contributor": "Krayton sendai"
   }
 ]
