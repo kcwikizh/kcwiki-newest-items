@@ -1,5 +1,17 @@
 [
   {
+    "title": "对马",
+    "remark": "内容扩充",
+    "date": "2026/10/27",
+    "contributor": "Krayton sendai"
+  },
+  {
+    "title": "印第安纳",
+    "remark": "内容扩充",
+    "date": "2026/10/27",
+    "contributor": "Krayton sendai"
+  },
+  {
     "title": "夜战",
     "remark": "修正为最早来源",
     "date": "2026/10/26",
@@ -16,17 +28,5 @@
     "remark": "添加任务页跳转短链",
     "date": "2026/10/14",
     "contributor": "LankerCN"
-  },
-  {
-    "title": "任务/期间限定任务",
-    "remark": "2026秋季任务归档",
-    "date": "2026/10/13",
-    "contributor": "我是超级憨猫土豆王"
-  },
-  {
-    "title": "周边活动立绘",
-    "remark": "内容扩充",
-    "date": "2026/10/11",
-    "contributor": "Krayton sendai"
   }
 ]
