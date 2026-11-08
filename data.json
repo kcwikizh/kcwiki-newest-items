@@ -1,32 +1,32 @@
 [
   {
-    "title": "零战52型甲(付岩本小队)",
-    "remark": "获取途径改为表格（机种转换）",
-    "date": "2026/11/2",
+    "title": "Repair Ship",
+    "remark": "舰种关键词重定向（中文/英文）",
+    "date": "2026/11/8",
     "contributor": "黑化丶路人"
   },
   {
-    "title": "战斗粮食(特制饭团)",
-    "remark": "修正单次获取方式rowspan",
-    "date": "2026/11/2",
+    "title": "Submarine Tender",
+    "remark": "舰种关键词重定向（中文/英文）",
+    "date": "2026/11/8",
     "contributor": "黑化丶路人"
   },
   {
-    "title": "Re.2001 G改",
-    "remark": "补全任务奖励明细（装备浮动卡）",
-    "date": "2026/11/2",
+    "title": "Landing Ship",
+    "remark": "舰种关键词重定向（中文/英文）",
+    "date": "2026/11/8",
     "contributor": "黑化丶路人"
   },
   {
-    "title": "应急修理女神",
-    "remark": "还原资料卡默认尺寸",
-    "date": "2026/11/2",
+    "title": "Oiler",
+    "remark": "舰种关键词重定向（中文/英文）",
+    "date": "2026/11/8",
     "contributor": "黑化丶路人"
   },
   {
-    "title": "三式爆雷投射机改",
-    "remark": "装备改为悬停卡显示",
-    "date": "2026/11/2",
+    "title": "Seaplane Tender",
+    "remark": "舰种关键词重定向（中文/英文）",
+    "date": "2026/11/8",
     "contributor": "黑化丶路人"
   }
 ]
