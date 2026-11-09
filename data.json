@@ -1,5 +1,17 @@
 [
   {
+    "title": "新型航空兵装资材",
+    "remark": "扶桑/山城消耗完整",
+    "date": "2026/11/8",
+    "contributor": "黑化丶路人"
+  },
+  {
+    "title": "改修消耗装备表",
+    "remark": "图标无跳转，隐藏注释占位",
+    "date": "2026/11/8",
+    "contributor": "黑化丶路人"
+  },
+  {
     "title": "Repair Ship",
     "remark": "舰种关键词重定向（中文/英文）",
     "date": "2026/11/8",
@@ -13,18 +25,6 @@
   },
   {
     "title": "Landing Ship",
-    "remark": "舰种关键词重定向（中文/英文）",
-    "date": "2026/11/8",
-    "contributor": "黑化丶路人"
-  },
-  {
-    "title": "Oiler",
-    "remark": "舰种关键词重定向（中文/英文）",
-    "date": "2026/11/8",
-    "contributor": "黑化丶路人"
-  },
-  {
-    "title": "Seaplane Tender",
     "remark": "舰种关键词重定向（中文/英文）",
     "date": "2026/11/8",
     "contributor": "黑化丶路人"
