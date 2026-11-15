@@ -1,5 +1,11 @@
 [
   {
+    "title": "结婚系统",
+    "remark": "按内部最大HP修正婚后改修列",
+    "date": "2026/11/14",
+    "contributor": "黑化丶路人"
+  },
+  {
     "title": "装备列表",
     "remark": "切换到整洁版装备列表函数",
     "date": "2026/11/13",
@@ -22,11 +28,5 @@
     "remark": "刷新装备加成表缓存",
     "date": "2026/11/13",
     "contributor": "黑化丶路人"
-  },
-  {
-    "title": "任务/最新任务",
-    "remark": "任务说明补充",
-    "date": "2026/11/13",
-    "contributor": "Shoukakusora"
   }
 ]
